@@ -1,0 +1,76 @@
+---
+lastSync: Mon Apr 27 2026 19:27:32 GMT-0600 (Central Standard Time)
+---
+# Angry GM — Article Catalog (Pages 11–15)
+
+Total articles: **150**
+
+---
+
+## Page 11
+
+1. [Fighting With Your Voice (Part 1… Maybe?)](https://theangrygm.com/fighting-with-your-voice-1/)
+2. [The Angry GM's GameholeCon Seminars](https://theangrygm.com/gameholecon-seminars/)
+3. [Lost Player Skills: Calling](https://theangrygm.com/lost-player-skills-calling/)
+4. [Lost Player Skills: Mapping](https://theangrygm.com/lost-player-skills-mapping/)
+5. [Maps: What's On Your Table?](https://theangrygm.com/maps-whats-on-your-table/)
+6. [Appendix: Break Your Mapaholism](https://theangrygm.com/appendix-break-your-mapaholism/)
+7. [Ask Angry: A Strange Labyrinth Full of Things](https://theangrygm.com/strange-labyrinth-of-things/)
+8. [The Angry GM on Investigation Check](https://theangrygm.com/investigation-check-appearance/)
+9. [Talk is Cheap; So is Thought](https://theangrygm.com/talk-is-cheap-so-is-thought/)
+10. [F$&% CR, There's a Better Way (Part 2)](https://theangrygm.com/f-cr-theres-a-better-way-part-2/)
+11. [F$&% CR, There's a Better Way (Part 1)](https://theangrygm.com/f-cr-theres-a-better-way-part-1/)
+12. [Flight to Elturel: Designing Part 2 (Part 3)](https://theangrygm.com/flight-to-elturel-part-3/)
+13. [What Makes Exploration Exploration?](https://theangrygm.com/what-makes-exploration/)
+14. [The Power of Editing](https://theangrygm.com/the-power-of-editing/)
+15. [Why'd You Have to Go and Make Things So Complicated?](https://theangrygm.com/making-things-complicated/)
+16. [Encumbrance, Rations, and Other Crap You Hate Tracking](https://theangrygm.com/encumbrance-rations-and-other-crap-you-hate-tracking/)
+17. [Flight to Elturel: Designing Part 1 (Part 2)](https://theangrygm.com/flight-to-elturel-part-2/)
+18. [Does Ammunition Really Matter Matter Matter?](https://theangrygm.com/does-ammunition-matter/)
+19. [Between Adventure and Encounter](https://theangrygm.com/between-adventure-and-encounter/)
+20. [The Flesh Golem is Willing, But the Spirit Failed its Morale Saving Throw](https://theangrygm.com/flesh-is-willing-spirit-failed/)
+21. [Dreaming of a Game Without Books](https://theangrygm.com/a-game-without-books/)
+22. [The Road to Elturel: An Object Lesson in Adventure Design (Part 1)](https://theangrygm.com/the-road-to-elturel-part-1/)
+23. [Tension on the Road to Elturel](https://theangrygm.com/tension-on-the-road/)
+24. [Coping with Loss](https://theangrygm.com/coping-with-loss/)
+25. [Angry's Guide to Experience](https://theangrygm.com/angrys-guide-to-experience/)
+26. [The World of D&D According to Rosewater… According to Angry](https://theangrygm.com/dd-according-to-rosewater/)
+27. [Hashtag Adventure Goals](https://theangrygm.com/hashtag-adventure-goals/)
+28. [Dice: Beautiful and Terrible as the Dawn](https://theangrygm.com/dice-beautiful-and-terrible/)
+29. [Ask Angry Lightning Round](https://theangrygm.com/ask-angry-lightning-round/)
+30. [Your Ability Scores Suck](https://theangrygm.com/your-ability-scores-suck/)
+
+---
+
+## Page 12
+
+1. [Good Ingredients Make Good Adventures](https://theangrygm.com/good-ingredients-good-adventures/)
+2. [Plan Hard, Work Hard, Play Hard](https://theangrygm.com/plan-hard-work-hard-play-hard/)
+3. [Being In-Flex-Able](https://theangrygm.com/being-in-flex-able/)
+4. [Gambling on Action](https://theangrygm.com/gambling-on-action/)
+5. [More Accounting for Magical Items](https://theangrygm.com/more-accounting-for-magical-items/)
+6. [So You Want to Brew an Adventure?](https://theangrygm.com/homebrew-an-adventure/)
+7. [Accounting for Magical Items](https://theangrygm.com/accounting-for-magical-items/)
+8. [A Trifecta of BS](https://theangrygm.com/a-trifecta-of-bs/)
+9. [Dear Players: There's a Better Way to Play](https://theangrygm.com/dear-players-a-better-way/)
+10. [Barking at Your Players: Advanced Combat Narration](https://theangrygm.com/barking-at-your-players-advanced-combat-narration/)
+11. [Theorycrafting an Unsummary](https://theangrygm.com/theorycrafting-an-unsummary/)
+12. [Drawing an Unnecessary Map of Nothing At All](https://theangrygm.com/drawing-an-unnecessary-map/)
+13. [I Am a Free Agent!](https://theangrygm.com/i-am-a-free-agent/)
+14. [Crafting in the Raw](https://theangrygm.com/crafting-in-the-raw/)
+15. [GMs Have Secrets Too](https://theangrygm.com/gms-have-secrets-too/)
+16. [Crafting Disappointment](https://theangrygm.com/crafting-disappointment/)
+17. [Sitting Through Character Generation with Angry](https://theangrygm.com/sitting-through-character-generation/)
+18. [Crafting Away from the Table](https://theangrygm.com/crafting-away-from-the-table/)
+19. [You Say You Want a Resolution](https://theangrygm.com/you-say-you-want-a-resolution/)
+20. [Let's Fix Inspiration AGAIN! … But Not Really](https://theangrygm.com/lets-fix-inspiration-again/)
+21. [Three Stories](https://theangrygm.com/three-stories/)
+22. [A Very Special Adventure](https://theangrygm.com/a-very-special-adventure/)
+23. [Acting on the Edge of Your Seat](https://theangrygm.com/acting-on-the-edge-of-your-seat/)
+24. [Neither Random Nor Encounter: Redesigning Random Encounters (Part 2)](https://theangrygm.com/redesigning-random-encounters-2/)
+25. [Always Tell me the Odds: Redesigning Random Encounters (Part 1)](https://theangrygm.com/redesigning-random-encounters-1/)
+26. [Angry's Post Gamehole Show](https://theangrygm.com/angrys-post-gamehole-show/)
+27. [More Like Session Negative Ten](https://theangrygm.com/more-like-session-negative-ten/)
+28. [Who Plays Vanilla WoW Anymore: Angry Starts a Campaign](https://theangrygm.com/no-one-plays-vanilla-wow/)
+29. [Welcome to Corneria: Establishing without Expositing](https://theangrygm.com/welcome-to-corneria-establishing-without-expositing/)
+30. [You Down with PPP? (Yeah, You Know Me!)](https://theangrygm.com/you-down-with-ppp-yeah-you-know-me/)
