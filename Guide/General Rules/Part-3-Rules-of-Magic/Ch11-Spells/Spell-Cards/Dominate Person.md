@@ -1,0 +1,50 @@
+---
+type: spell-card
+source: Basic Rules 2018
+spell: "Dominate Person"
+level: 5
+school: enchantment
+tags:
+  - spell
+  - spell-card
+  - enchantment
+  - level-5
+---
+# Dominate Person
+
+*5th-level enchantment*
+
+| Property | Value |
+|----------|-------|
+| **Casting Time** | 1 action |
+| **Range** | 60 feet |
+| **Components** | V, S |
+| **Duration** | Concentration, up to 1 minute |
+
+## Effect
+
+You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
+
+While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
+
+You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+
+Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
+
+***At Higher Levels.*** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.
+
+---
+
+## Quick Reference
+
+- **Level/School:** 5th-level enchantment
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+- Target a humanoid; WIS save or [[Charmed|charmed]] (advantage if fighting you/allies)
+- Telepathic link for commands (no action); general orders or precise control (action)
+- Precise control: choose all actions, can force reaction (costs your reaction)
+- New WIS save each time target takes damage
+- **At Higher Levels:** 6th = 10 min; 7th = 1 hour; 8th+ = 8 hours
+- **Key Concept:** Mind control over humanoids — shorter duration but lower level than [[Dominate Monster]]
