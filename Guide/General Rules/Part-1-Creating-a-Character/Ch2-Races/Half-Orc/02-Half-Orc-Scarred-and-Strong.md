@@ -20,7 +20,7 @@ Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn't just
 
 ## Grudging Acceptance
 
-Each half-orc finds a way to gain acceptance from those who hate orcs. Some are reserved, trying not to draw attention to themselves. A few demonstrate piety and good-heartedness as publicly as they can (whether or not such demonstrations areف genuine). And some simply try to be so tough that others just avoid bothering them.
+Each half-orc finds a way to gain acceptance from those who hate orcs. Some are reserved, trying not to draw attention to themselves. A few demonstrate piety and good-heartedness as publicly as they can (whether or not such demonstrations are genuine). And some simply try to be so tough that others just avoid bothering them.
 
 
 ## Condensed Version
