@@ -1,6 +1,6 @@
 # 🎲 D&D 5e Obsidian Vault
 
-Master index for the entire vault (~2,100+ files). A comprehensive D&D 5e reference built in Obsidian, including player rules, DM resources, monster tactics, adventures, and Spanish-language guides for new players.
+Master index for the entire vault. A comprehensive D&D 5e reference built in Obsidian, including player rules, DM resources, monster tactics, adventures, and Spanish-language guides for new players.
 
 ## 📚 Core References
 
