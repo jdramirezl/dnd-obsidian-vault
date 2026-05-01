@@ -1,0 +1,25 @@
+---
+type: rule
+source: Player's Handbook
+class: monk
+level: 7
+feature: Evasion
+tags:
+  - rules
+  - phb
+  - class
+  - monk
+  - class-features
+---
+
+## Original Text
+
+**Evasion**
+
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+---
+
+## Condensed Version
+
+**Key Concept:** At 7th level, Dex save area effects deal zero damage on a success and half damage on a failure (instead of half/full).
