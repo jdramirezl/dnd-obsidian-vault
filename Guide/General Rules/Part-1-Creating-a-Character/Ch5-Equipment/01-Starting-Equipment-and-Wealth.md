@@ -89,18 +89,18 @@ Opportunities abound to find treasure, equipment, weapons, armor, and more in th
 
 | Class     | Funds        |
 | --------- | ------------ |
-| [[01-Barbarian-Overview|Barbarian]] | 2d4 × 10 gp |
-| [[01-Bard-Overview|Bard]]      | 5d4 × 10 gp |
-| [[01-Cleric-Overview|Cleric]]    | 5d4 × 10 gp |
-| [[01-Druid-Overview|Druid]]     | 2d4 × 10 gp |
-| [[01-Fighter-Overview|Fighter]]   | 5d4 × 10 gp |
-| [[01-Monk-Overview|Monk]]      | 5d4 gp       |
-| [[01-Paladin-Overview|Paladin]]   | 5d4 × 10 gp |
-| [[01-Ranger-Overview|Ranger]]    | 5d4 × 10 gp |
-| [[01-Rogue-Overview|Rogue]]     | 4d4 × 10 gp |
-| [[01-Sorcerer-Overview|Sorcerer]]  | 3d4 × 10 gp |
-| [[01-Warlock-Overview|Warlock]]   | 4d4 × 10 gp |
-| [[01-Wizard-Overview|Wizard]]    | 4d4 × 10 gp |
+| Barbarian  | 2d4 × 10 gp |
+| Bard       | 5d4 × 10 gp |
+| Cleric     | 5d4 × 10 gp |
+| Druid      | 2d4 × 10 gp |
+| Fighter    | 5d4 × 10 gp |
+| Monk       | 5d4 gp       |
+| Paladin    | 5d4 × 10 gp |
+| Ranger     | 5d4 × 10 gp |
+| Rogue      | 4d4 × 10 gp |
+| Sorcerer   | 3d4 × 10 gp |
+| Warlock    | 4d4 × 10 gp |
+| Wizard     | 4d4 × 10 gp |
 
 ### Coinage
 

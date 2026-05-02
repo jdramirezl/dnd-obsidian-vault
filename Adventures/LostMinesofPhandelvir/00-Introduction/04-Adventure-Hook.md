@@ -17,6 +17,14 @@ You can let players invent their own reasons for visiting **Phandalin**, or you 
 
 ### Meet Me in Phandalin
 
+## Texto para Leer en Voz Alta 🎭 (Inicio de la Aventura)
+
+> En la ciudad de Neverwinter, un enano llamado Gundren Rockseeker les pidió que llevaran un cargamento de provisiones al rudo asentamiento de Phandalin, a un par de días de viaje al sureste de la ciudad. Gundren estaba claramente emocionado y bastante misterioso sobre sus razones para el viaje, diciendo solamente que él y sus hermanos habían encontrado "algo grande", y que les pagaría diez monedas de oro a cada uno por escoltar sus suministros de forma segura hasta las Provisiones de Barthen, un puesto comercial en Phandalin. Luego partió antes que ustedes a caballo, junto con un guerrero escolta llamado Sildar Hallwinter, diciendo que necesitaba llegar temprano para "encargarse de unos asuntos."
+>
+> Han pasado los últimos días siguiendo el Camino Alto hacia el sur desde Neverwinter, y recientemente viraron al este por el Sendero de Triboar. No han tenido problemas hasta ahora, pero este territorio puede ser peligroso. Se sabe que bandidos y forajidos acechan a lo largo del sendero.
+
+## DM Notes
+
 The characters are in the city of [[Neverwinter]] when their dwarf patron and friend, ****Gundren Rockseeker****, hires them to escort a wagon to **Phandalin**. Gundren has gone ahead with a warrior, ****Sildar Hallwinter****, to attend to business in the town while the characters follow with the supplies.
 
 **Payment**: 10 gp each, paid by the owner of ****Barthen's Provisions**** in Phandalin when they deliver the wagon safely.
