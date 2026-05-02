@@ -46,7 +46,8 @@ Quick reference for DMs and players on how to describe or "voice" each language 
   - **Official:** Harsh to most creatures, with numerous hard consonants and sibilants. One of the oldest languages.
   - **Real-world equivalent:** Arabic / Classical Latin
   - **Think:** "S", "SH", "KH" sounds. Ancient and powerful. Like an ancestral incantation.
-  - 🎥 [Iraqi Arabic sample](https://www.youtube.com/watch?v=lRujenUdJng&list=PLDsEIivsLesL9KzGYvgo-d2HSsJQqHOsv&index=2)
+  - 🎥 [Iraqi Arabic sample](https://www.youtube.com/watch?v=lRujenUdJng&list=PLDsEIivsLesL9KzGYvgo-d2HSsJQqHOsv&index=2) — the harsh consonants and sibilants
+  - 🎥 [Spoken Latin sample](https://www.youtube.com/watch?v=oMt5fav85WY) — the ancient, scholarly, magical side
   - **Source:** PHB 5e
 
 - **Gnomish**
@@ -67,7 +68,7 @@ Quick reference for DMs and players on how to describe or "voice" each language 
   - **Official:** Harsh, every syllable uttered like a command. Raspy sounds from Celestial spoken among fumes and ashes. Has 4 dialects — the court form can drag listeners into despair.
   - **Real-world equivalent:** Corrupted Ecclesiastical Latin
   - **Think:** A Catholic mass in Hell. Precise, legalistic, authoritative — but raspy and menacing.
-  - 🎥 [Gregorian chant (Celestial, uncorrupted)](https://www.youtube.com/watch?v=xERuXyDeVqc)
+  - 🎥 [Gregorian chant (Celestial, uncorrupted)](https://www.youtube.com/watch?v=xERuXyDeVqc) — corrupt this for Infernal
   - **To make it sound Infernal at the table:**
     - Slow to 0.75x speed
     - Pitch-shift down 2-3 semitones

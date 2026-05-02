@@ -45,7 +45,8 @@ Guía rápida para que el DM y los jugadores sepan cómo describir o "actuar" ca
   - **Sonido oficial:** Áspero para la mayoría, con consonantes duras y sibilantes. Uno de los idiomas más antiguos.
   - **Equivalente real:** 🇸🇦 Árabe / 🇻🇦 Latín clásico
   - **Piensa en:** Sonidos de "S", "SH", "KH". Antiguo y poderoso. Como un conjuro ancestral.
-  - 🎥 [Ejemplo: Árabe iraquí](https://www.youtube.com/watch?v=lRujenUdJng&list=PLDsEIivsLesL9KzGYvgo-d2HSsJQqHOsv&index=2)
+  - 🎥 [Ejemplo: Árabe iraquí](https://www.youtube.com/watch?v=lRujenUdJng&list=PLDsEIivsLesL9KzGYvgo-d2HSsJQqHOsv&index=2) — las consonantes duras y sibilantes
+  - 🎥 [Ejemplo: Latín hablado](https://www.youtube.com/watch?v=oMt5fav85WY) — el lado antiguo, académico, mágico
 
 - **Gnomo — Gnómico (Gnomish)**
   - **Sonido oficial:** Estructura simple y tonos fluidos. Vocabulario extremadamente preciso.
@@ -66,7 +67,7 @@ Guía rápida para que el DM y los jugadores sepan cómo describir o "actuar" ca
   - **Sonido oficial:** Áspero, cada sílaba como una orden. Sonidos rasposos (Celestial hablado entre humos y cenizas).
   - **Equivalente real:** 🇻🇦 Latín eclesiástico corrupto
   - **Piensa en:** Una misa católica en el infierno.
-  - 🎥 [Ejemplo: Canto gregoriano (Celestial, sin corromper)](https://www.youtube.com/watch?v=xERuXyDeVqc)
+  - 🎥 [Ejemplo: Canto gregoriano (Celestial, sin corromper)](https://www.youtube.com/watch?v=xERuXyDeVqc) — corrompe esto para Infernal
   - **Para hacerlo sonar Infernal en la mesa:**
     - Baja la velocidad a 0.75x
     - Baja el tono 2-3 semitonos
