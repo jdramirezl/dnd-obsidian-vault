@@ -33,10 +33,19 @@ tags:
 > *How does this session begin? One evocative sentence. When in doubt, start with a fight.*
 
 **What's happening?**
+- Vamos a comenzar creando los personajes
+	- Concentrarme en crear buenas historias
+	- Si son buenos o malos. Siguen dioses, sus deseos, venganzas.
+	- Por que, dado su pasado, estan todos juntos ya? Se caen bien? Amigos?
+- Repasar las reglas
+- Primer encuentro goblin tal vez
 
 **What's the point?**
+- Comenzar la historia
+- Nos van a pagar 10 oros a cada uno
 
 **Where's the action?**
+- El primer encuentro
 
 ---
 
@@ -44,9 +53,9 @@ tags:
 
 > *A few words per scene. Expect 1–2 per hour. Be ready to throw these away.*
 
-1. 
-2. 
-3. 
+1. Presentar la costa de la espada
+2. Presntar la escena introuctoria, el contractor, carruaje, premio, motivo, poner posiciones
+3. Presentar Misterio
 4. 
 
 ---
@@ -55,9 +64,9 @@ tags:
 
 > *10 short sentences. Keep them abstract — don't tie them to a specific place or person. Drop them wherever it makes sense during play.*
 
-1. 
-2. 
-3. 
+1. Camino a guarida
+2. Mapa desaparecido
+3. Pasos de goblins y rastros de 2 cuerpos
 4. 
 5. 
 6. 
@@ -72,11 +81,11 @@ tags:
 
 > *Evocative name + 3 pointed aspects. One location per expected scene.*
 
-| Location | Aspect 1 | Aspect 2 | Aspect 3 |
-|----------|----------|----------|----------|
-|          |          |          |          |
-|          |          |          |          |
-|          |          |          |          |
+| Location            | Aspect 1                                           | Aspect 2                                                      | Aspect 3 |
+| ------------------- | -------------------------------------------------- | ------------------------------------------------------------- | -------- |
+| Phandalin           | Asentamiento en un pueblo destruido hace 500 anios | Recientemente colonizado por personas concentradas en mineria |          |
+| Provisiones Barthen | Tienda de la familia Rockseeker                    | donde se quieren llevar las provisiones                       |          |
+| Sendero de Triboar  | Camino donde empezamos la historia                 |                                                               |          |
 
 ---
 
@@ -84,11 +93,11 @@ tags:
 
 > *Name + connection to the adventure + archetype from fiction.*
 
-| NPC | Connection | Archetype | Voice/Quirk |
-|-----|-----------|-----------|-------------|
-|     |           |           |             |
-|     |           |           |             |
-|     |           |           |             |
+| NPC                 | Connection                                              | Archetype | Voice/Quirk |
+| ------------------- | ------------------------------------------------------- | --------- | ----------- |
+| Gunndren Rockseeker | Enano, nos contrata para llevar provisiones a Phandalin |           |             |
+| Sildar Hallwinter   | Human, escolta de Gunndren                              |           |             |
+|                     |                                                         |           |             |
 
 ---
 
@@ -96,11 +105,11 @@ tags:
 
 > *What makes sense for the story and location? CR is a loose gauge, not a rule.*
 
-| Monster | CR | Qty | Tactics/Notes |
-|---------|----|-----|---------------|
-|         |    |     |               |
-|         |    |     |               |
-|         |    |     |               |
+| Monster | CR  | Qty | Tactics/Notes            |
+| ------- | --- | --- | ------------------------ |
+| Goblins |     | 4   | 2 attack, 2 30 ft arrows |
+|         |     |     |                          |
+|         |     |     |                          |
 
 ---
 
@@ -108,7 +117,7 @@ tags:
 
 > *Tie items to characters and story. Use the [[10-select-magic-item-rewards|loose wish list]] method.*
 
-- 
+- N/A
 - 
 
 ---
