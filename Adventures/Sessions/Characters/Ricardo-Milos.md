@@ -125,9 +125,9 @@ Fue **invocado a este mundo por un hechicero poderoso**. Apareció sin nada y ll
 
 ## DM Notes
 
-### ⚠️ Sheet Issues Still Pending
-1. **REMOVE Acid Vulnerability** — still listed under Defenses. Should have none.
-2. **Clear DMG 2 on Unarmed Strike** — shows "3" as leftover. Clear it.
+### ⚠️ Sheet Issues — ALL DM FIXES DONE ✅
+1. ~~REMOVE Acid Vulnerability~~ ✅
+2. ~~Clear DMG 2 on Unarmed Strike~~ ✅
 3. **NO EQUIPMENT** — 205 gp sitting unused. Must buy gear before session 2.
 
 ### Adventure Hooks

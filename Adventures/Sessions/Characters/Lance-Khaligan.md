@@ -143,10 +143,10 @@ Tras **un año de viaje** llegó a Neverwinter. Trabajó **4 años como aventure
 
 ## DM Notes
 
-### ⚠️ Sheet Issues to Fix
-1. **Set up weapon attacks in Roll20** — Longbow (+6, 1d8+4), Shortsword (+6, 1d6+4), Scimitar (+6, 1d6+4). Currently only Unarmed Strike exists.
-2. **Add Hunter's Mark as Bonus Action** in Roll20 — "Acción bonus. Concentración. Marca un objetivo a 90 pies. +1d6 daño por golpe contra el marcado."
-3. **Pick 2 more skill proficiencies** from Skilled feat — recommend Stealth (+6!) and Nature (+5)
+### ⚠️ Sheet Issues — ALL DM FIXES DONE ✅
+1. ~~Set up weapon attacks~~ ✅ Longbow, Shortsword, Scimitar configured
+2. ~~Add Hunter's Mark as Bonus Action~~ ✅
+3. ~~Pick 2 more skill proficiencies~~ ✅ (Stealth, Nature added)
 4. **Consider selling Shortbow** — strictly worse than Longbow, gets 12 gp back
 
 ### 🔫 Pistol Plan

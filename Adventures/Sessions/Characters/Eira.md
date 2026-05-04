@@ -152,15 +152,15 @@ Lleva un vial de la **"Veta Gris"** — la enfermedad que aún late, recordándo
 
 ## DM Notes
 
-### ⚠️ Sheet Issues to Fix
-1. **Spear attacks use STR (-1)** — should use DEX (+2) via Martial Arts. Change all 3 spear entries: Ability → DEX, result +4 to hit, 1d6+2 / 1d8+2 damage.
-2. **Delete "Dart (Finesse)"** entry — shows 1d4-1 (wrong). Keep the other Dart entry (+4, 1d4+2) and set range to 20/60 ft (not melee 5 ft).
-3. **Dart quantity: 1** → change to **10** in Equipment.
-4. **Add Bonus Unarmed Strike** to Bonus Actions: "Golpe sin armas adicional (Artes Marciales). +4 al ataque, 1d6+2 contundente."
-5. **Healing Word in Attacks section** — cosmetic issue, works fine as bonus action regardless.
+### ⚠️ Sheet Issues — ALL DM FIXES DONE ✅
+1. ~~Spear attacks use STR~~ ✅ Changed to DEX
+2. ~~Delete Dart (Finesse)~~ ✅
+3. ~~Dart quantity 1~~ ✅ Changed to 10
+4. ~~Add Bonus Unarmed Strike~~ ✅
+5. ~~Healing Word in Attacks~~ cosmetic, works fine
 
-### Player Homework (minimal!)
-- [ ] Fill appearance in Roll20 fields (data exists in About but not in the fields)
+### Player Homework
+- [ ] Fill appearance in Roll20 fields (data exists in About text)
 
 ### 🏆 Eira is the PARTY HEALER
 - Healing Word (bonus action, 60 ft) = heal from range while fighting

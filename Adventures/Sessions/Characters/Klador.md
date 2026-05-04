@@ -154,19 +154,19 @@ Vaga buscando cómo **concretar venganza y revertir la maldición**.
 
 ## DM Notes
 
-### ⚠️ Sheet Issues to Fix
-1. **Delete duplicate Dagger attacks** — keep only "Dagger (Finesse)" +4/1d4+2 melee and fix "Dagger (Thrown)" to +4/1d4+2. Delete the +2 versions.
-2. **Move Leather Armor from Possessions to Equipment** — so AC calculates properly
-3. **Verify AC** — Leather (11) + DEX (+2) should = **13**, not 12. Fix if wrong.
-4. **Add Hellish Rebuke as Reaction** — "Reacción cuando recibes daño. Atacante: salvación DEX DC 12 o 2d10 fuego (mitad si salva). Usa 1 slot."
-5. **Consolidate Daggers** — 1 in Equipment + 2 in Possessions = 3 total? He should have 2. Clean up.
+### ⚠️ Sheet Issues — ALL DM FIXES DONE ✅
+1. ~~Delete duplicate Dagger attacks~~ ✅
+2. ~~Move Leather Armor to Equipment~~ ✅
+3. ~~Verify AC~~ ✅ (now 13 with Leather + DEX)
+4. ~~Add Hellish Rebuke as Reaction~~ ✅
+5. ~~Consolidate Daggers~~ ✅
 
 ### Player Homework
-- [ ] Buy Studded Leather (45 gp → AC 14 instead of 12/13). Has 65 gp.
+- [ ] Buy Studded Leather (45 gp → AC 14). Has 65 gp.
 - [ ] Confirm True Strike over Eldritch Blast is intentional
 - [ ] Name the divine patron entity
 - [ ] Name the abyssal curse entity
-- [ ] Fill appearance in Roll20 fields (data exists in text but not in fields)
+- [ ] Fill appearance in Roll20 fields
 - [ ] List allies
 
 ### 🎭 The Curse — DM Tool

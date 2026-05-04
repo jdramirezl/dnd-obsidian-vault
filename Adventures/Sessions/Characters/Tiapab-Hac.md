@@ -167,12 +167,10 @@ Heredero en la competencia por el trono del **Clan de la Alianza del Cielo Justo
 
 ## DM Notes
 
-### ⚠️ Sheet Issues Still Pending
-1. **Disciple of Life aparece 5 veces** en Features — borrar los duplicados, dejar solo 1
-2. **"Unnamed Decision"** aparece en Other Features bajo Soldier — borrar
-3. **Acrobatics +3** — parece marcado como proficient por error. Verificar y quitar si no debería estar.
-4. **Speed 20 ft** — Chain Mail reduce velocidad a 20 porque su STR (12) no cumple el requisito de 13. Esto es correcto por las reglas pero es lento. Opciones: vivir con ello, o eventualmente subir STR a 13.
-5. **Cure Wounds muestra 1d8+1** en ataques — debería recordar sumar +3 de Disciple of Life (total 1d8+4). Roll20 no lo calcula automáticamente.
+### ⚠️ Sheet Issues — ALL DM FIXES DONE ✅
+1. ~~Disciple of Life duplicates~~ ✅ Cleaned
+2. ~~Unnamed Decision~~ ✅ Deleted
+3. ~~Acrobatics proficiency check~~ ✅ Verified
 
 ### 📝 Homework for Mono (lo único que queda)
 - [ ] Llenar apariencia (altura, peso, ojos, cabello, piel, edad)
