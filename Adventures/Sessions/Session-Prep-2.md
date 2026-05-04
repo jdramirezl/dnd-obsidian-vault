@@ -8,200 +8,205 @@ tags:
   - lmop
   - part-1
 ---
-# Session Prep — Session 2
+# Preparación de Sesión 2
 
-> Based on the [[02-the-lazy-dungeon-masters-checklist|Lazy DM 8-Step Checklist]]
-> **Scope:** Road travel → Goblin Ambush → Goblin Trail → Start of Cragmaw Hideout
-> **Expected duration:** 2.5–3.5 hours
-
----
-
-## 1. Review the Characters
-
-| Character | Player | Class/Level | Key Motivation | Current Arc |
-|-----------|--------|-------------|----------------|-------------|
-| Eira | Cami | Dwarf Monk 1 | Cure the Grey Vein plague, find rare ingredients | Exiled healer seeking redemption through forbidden science |
-| Tiapab Hac | Mono | High Elf Cleric 1 (Life) | Prove himself as a swordsman, find Clan Ragnar | Rebel cleric torn between duty (heal) and dream (fight) |
-| Klador | Andrew | Half-Elf Warlock 1 | Break his curse, get revenge on the Damaran king | Cursed spy caught between divine and abyssal entities |
-| Lance Khaligan | Juandi | Human Ranger 1 | Build a faction to reclaim Andalond from demons | Fallen noble rebuilding from nothing, trusts no one |
-| Ricardo Milos | David | Human Fighter 1 | Survive in a new world, find purpose | Summoned warrior with no past here, pure instinct and charisma |
-
-### What I know about my players
-- **Cami (Eira):** Built the most complete character. Will roleplay the healer role well. Will react emotionally to goblins.
-- **Mono (Tiapab):** Anime-inspired backstory. Will want to swing his sword. Might resist healing allies — that's his arc, let it happen.
-- **Andrew (Klador):** Gave me permission to control his character during curse episodes. Wants dark, dramatic moments.
-- **Juandi (Lance):** Most serious backstory. Will be strategic and cautious. Distrusts easily.
-- **David (Ricardo):** Meme energy but engaged. Will try to seduce things. Let him — it's funny and builds the table vibe.
-
-- [x] Can I remember all their names?
-- [ ] Did players finish bonds/flaws/physical descriptions?
+> Basado en el [[02-the-lazy-dungeon-masters-checklist|Checklist del Lazy DM]]
+> **Alcance:** Viaje por el camino → Emboscada Goblin → Sendero Goblin → Inicio de Guarida Cragmaw
+> **Duración esperada:** 2.5–3.5 horas
 
 ---
 
-## 2. Strong Start
+## 1. Revisar los Personajes
 
-> Start where we left off — the morning in Neverwinter, wagon loaded, road ahead.
+| Personaje | Jugador | Clase/Nivel | Motivación Principal | Arco Actual |
+|-----------|---------|-------------|---------------------|-------------|
+| Eira | Cami | Enana Monje 1 | Curar la Veta Gris, ingredientes raros | Sanadora exiliada buscando redención |
+| Tiapab Hac | Mono | Alto Elfo Clérigo 1 (Vida) | Demostrar que es espadachín, Clan Ragnar | Rebelde entre deber (curar) y sueño (pelear) |
+| Klador | Andrew | Semielfo Warlock 1 | Romper maldición, venganza contra rey Damarano | Espía maldito entre dos entidades |
+| Lance Khaligan | Juandi | Humano Ranger 1 | Facción contra demonios, reclamar Andalond | Noble caído, no confía en nadie |
+| Ricardo Milos | David | Humano Guerrero 1 | Sobrevivir, encontrar propósito | Guerrero invocado, instinto y carisma |
 
-**Opening line:**
+### Lo que sé de mis jugadores
+- **Cami (Eira):** Personaje más completo. Roleará bien la sanadora. Reaccionará emocionalmente a los goblins.
+- **Mono (Tiapab):** Backstory tipo anime. Querrá usar la espada. Puede resistirse a curar — ese ES su arco, dejarlo pasar.
+- **Andrew (Klador):** Me dio permiso de controlar su personaje durante episodios de la maldición. Quiere momentos oscuros y dramáticos.
+- **Juandi (Lance):** Backstory más serio. Será estratégico y cauteloso. Desconfía fácilmente.
+- **David (Ricardo):** Energía de meme pero comprometido. Intentará seducir cosas. Dejarlo — es divertido y construye el ambiente de la mesa.
+
+- [x] ¿Me sé todos los nombres?
+- [ ] ¿Los jugadores terminaron bonds/flaws/descripciones?
+
+---
+
+## 2. Inicio Fuerte
+
+> Empezar donde lo dejamos — la mañana en Neverwinter, carromato cargado, camino por delante.
+
+**Línea de apertura:**
 > "La última vez los dejamos en la mañana, saliendo de Neverwinter con el carromato cargado. Los bueyes avanzan lentamente por el Camino Alto hacia el sur. ¿Quién va manejando? ¿Quién camina adelante? ¿Quién va atrás?"
 
-**Character-specific prompts for the road:**
+**Preguntas específicas por personaje para el camino:**
 - **Eira:** "Eira, ¿llevas tus hierbas y ungüentos a la mano o guardados en el carromato?"
 - **Lance:** "Lance, ¿vas con el arco listo o relajado? ¿Vigilas los alrededores?"
 - **Klador:** "Klador, ¿cómo te sientes esta mañana? ¿La maldición te dejó dormir?"
 - **Ricardo:** "Ricardo, ¿cómo reacciona la gente en el camino cuando te ve?"
 - **Tiapab:** "Tiapab, ¿llevas la espada desenvainada o en la funda? ¿Rezas antes de partir?"
 
-**What's the point?**
-- Establish marching order (matters for the ambush)
-- Let them roleplay on the road — first time speaking AS their characters
-- Build tension as the road gets quieter
+**¿Cuál es el punto?**
+- Establecer orden de marcha (importa para la emboscada)
+- Dejarlos rolear en el camino — primera vez hablando COMO sus personajes
+- Construir tensión mientras el camino se pone más silencioso
 
-**Where's the action?**
-- The Goblin Ambush on the Triboar Trail
-
----
-
-## 3. Potential Scenes
-
-1. **Road Day 1** — Travel the High Road. Pass merchants, farmers. Character-specific prompts above. (5-10 min)
-2. **Camp at Night** — Who makes fire? Eira cooks (she's the practical one). Lance takes first watch (ranger instinct). Klador gambles with Ricardo? Tiapab meditates/trains with his sword. (5-10 min)
-3. **Road Day 2 — The Turn** — Leave the High Road, enter Triboar Trail. Forest closes in. Mood shifts. Music change. (2-3 min)
-4. **💀 Goblin Ambush** — Dead horses, hidden goblins, FIGHT. Eira recognizes goblins = personal. (30-45 min)
-5. **After the Ambush** — Search bodies, find empty map case, find goblin trail. Eira wants revenge. Lance wants intel. Klador wants to interrogate. (10 min)
-6. **Goblin Trail** — 2 traps (snare + pit). Lance's Survival shines here. (15-20 min)
-7. **Cragmaw Hideout Entrance** (if time) — Cave mouth, stream, goblin blind. Klador scouts (best Stealth/Perception). (20-30 min)
+**¿Dónde está la acción?**
+- La Emboscada Goblin en el Sendero de Triboar
 
 ---
 
-## 4. Secrets and Clues
+## 3. Escenas Potenciales
 
-> Drop these wherever it makes sense. Tie them to specific characters when possible.
+1. **Camino Día 1** — Camino Alto. Pasan mercaderes, granjeros. Preguntas por personaje. (5-10 min)
+2. **Campamento de Noche** — ¿Quién hace fuego? Eira cocina. Lance toma primera guardia. ¿Klador apuesta con Ricardo? Tiapab medita/entrena con su espada. (5-10 min)
+3. **Camino Día 2 — El Giro** — Dejan el Camino Alto, entran al Sendero de Triboar. Bosque se cierra. Cambio de ánimo. Cambio de música. (2-3 min)
+4. **💀 Emboscada Goblin** — Caballos muertos, goblins escondidos, PELEA. Eira reconoce goblins = personal. (30-45 min)
+5. **Después de la Emboscada** — Buscar cuerpos, estuche de mapas vacío, encontrar sendero goblin. Eira quiere venganza. Lance quiere información. Klador quiere interrogar. (10 min)
+6. **Sendero Goblin** — 2 trampas (lazo + foso). El Survival de Lance brilla aquí. (15-20 min)
+7. **Entrada Guarida Cragmaw** (si hay tiempo) — Boca de cueva, arroyo, puesto ciego goblin. Klador espía (mejor Sigilo/Percepción). (20-30 min)
 
-1. Los caballos muertos pertenecen a Gundren y Sildar — **Lance** puede reconocer las alforjas si conocía a Gundren en Neverwinter
-2. El estuche de mapas de cuero está vacío — **Klador** (Investigation +3) nota que fue abierto con cuidado, no arrancado
-3. Hay rastros de ~12 goblins y marcas de arrastre de 2 cuerpos — **Lance** (Survival +2) puede rastrearlos
+---
+
+## 4. Secretos y Pistas
+
+> Soltar donde tenga sentido. Conectar con personajes específicos cuando sea posible.
+
+1. Los caballos muertos son de Gundren y Sildar — **Lance** puede reconocer las alforjas si conocía a Gundren
+2. El estuche de mapas está vacío — **Klador** (Investigación +3) nota que fue abierto con cuidado
+3. Rastros de ~12 goblins y marcas de arrastre de 2 cuerpos — **Lance** (Supervivencia +2) puede rastrearlos
 4. Un goblin capturado sabe que "el enano" fue llevado al Castillo Cragmaw — **Tiapab** habla Goblin y puede interrogar directamente
 5. El líder de la cueva es un bugbear llamado Klarg que trabaja para el Rey Grol
 6. Klarg tiene órdenes de emboscar viajeros en el camino
 7. Sildar Hallwinter está prisionero en la cueva — **Eira** querrá salvarlo (su código médico)
 8. Los suministros robados del Coster Lionshield están en la cueva — recompensa en Phandalin
-9. Gundren y sus hermanos encontraron la entrada a la Cueva del Eco de las Olas — una mina perdida — **Eira** debería notar: "¿una mina? ¿qué tipo de mina?"
-10. Alguien llamado "la Araña Negra" quiere el mapa de Gundren — **Klador** reacciona: ¿otro hechicero manipulador como el rey que lo maldijo?
+9. Gundren encontró la entrada a la Cueva del Eco de las Olas — una mina perdida — **Eira**: "¿una mina? ¿qué tipo de mina?"
+10. Alguien llamado "la Araña Negra" quiere el mapa — **Klador** reacciona: ¿otro hechicero manipulador?
 
 ---
 
-## 5. Fantastic Locations
+## 5. Ubicaciones
 
-| Location | Aspect 1 | Aspect 2 | Aspect 3 |
-|----------|----------|----------|----------|
+| Ubicación | Aspecto 1 | Aspecto 2 | Aspecto 3 |
+|-----------|-----------|-----------|-----------|
 | Sendero de Triboar | Camino angosto entre bosque denso | Menos viajeros — más silencio | Terraplenes empinados a ambos lados |
-| Sitio de la Emboscada | Dos caballos muertos con flechas negras | Estuche de mapas vacío | Eira reconoce las flechas: "Estas son flechas de trasgo" |
+| Sitio de la Emboscada | Dos caballos muertos con flechas negras | Estuche de mapas vacío | Eira reconoce las flechas: "Son flechas de trasgo" |
 | Sendero Goblin | Rastro oculto (DC 10 Supervivencia — Lance lo encuentra fácil) | Trampa de lazo a 10 min | Trampa de foso a 30 min |
-| Boca de la Cueva Cragmaw | Arroyo que sale de la cueva | Matorrales densos | Klador puede escabullirse (Stealth +4) para espiar |
+| Boca de Cueva Cragmaw | Arroyo que sale de la cueva | Matorrales densos | Klador puede escabullirse (Sigilo +4) |
 
 ---
 
-## 6. Important NPCs
+## 6. NPCs Importantes
 
-| NPC | Connection | Archetype | Voice/Quirk |
-|-----|-----------|-----------|-------------|
-| Gundren Rockseeker | Enano que los contrató. Capturado. | El mentor entusiasta | Habla rápido, se emociona, guarda secretos. Lance lo conoce de Neverwinter. |
-| Sildar Hallwinter | Guerrero humano, escolta de Gundren. Prisionero en la cueva. | El caballero honorable | Formal, agradecido. Eira querrá curarlo inmediatamente. Ofrece 50 gp. |
-| Klarg (bugbear) | Líder de la cueva Cragmaw. Trabaja para el Rey Grol. | El matón arrogante | "¡Klarg destruye!" Ricardo podría intentar intimidarlo/seducirlo. |
-| Yeemik (goblin) | Segundo al mando. Odia a Klarg. Tiene a Sildar. | El traidor oportunista | Cobarde, negocia. Klador (Deception +4) puede manipularlo fácilmente. |
+| NPC | Conexión | Arquetipo | Voz/Manía |
+|-----|----------|-----------|-----------|
+| Gundren Rockseeker | Enano que los contrató. Capturado. | El mentor entusiasta | Habla rápido, se emociona. Lance lo conoce de Neverwinter. |
+| Sildar Hallwinter | Guerrero humano, escolta de Gundren. Prisionero. | El caballero honorable | Formal, agradecido. Eira querrá curarlo. Ofrece 50 gp. |
+| Klarg (bugbear) | Líder de la cueva. Trabaja para el Rey Grol. | El matón arrogante | "¡Klarg destruye!" Ricardo podría intentar intimidarlo/seducirlo. |
+| Yeemik (goblin) | Segundo al mando. Odia a Klarg. Tiene a Sildar. | El traidor oportunista | Cobarde, negocia. Klador (Engaño +4) puede manipularlo. |
 
 ---
 
-## 7. Monsters
+## 7. Monstruos
 
-| Monster | CR | Qty | HP | AC | Attack | Tactics |
-|---------|-----|-----|----|----|--------|---------|
-| Goblin | 1/4 | 4 (emboscada) | 7 | 15 | +4, 1d6+2 | 2 melee rush, 2 stay back with bows. Last one flees. Stealth +6. |
-| Goblin | 1/4 | 2 (puesto ciego) | 7 | 15 | +4, 1d6+2 | Vigías en la entrada de la cueva. Alertan si ven al grupo. |
+| Monstruo | CR | Cant. | HP | AC | Ataque | Tácticas |
+|----------|----|-------|----|----|--------|----------|
+| Goblin | 1/4 | 4 (emboscada) | 7 | 15 | +4, 1d6+2 | 2 melee, 2 arcos atrás. El último huye. Sigilo +6. |
+| Goblin | 1/4 | 2 (puesto ciego) | 7 | 15 | +4, 1d6+2 | Vigías en la entrada. Alertan si ven al grupo. |
 
-### ⚠️ Party Fragility Warning
-- **Klador (7 HP)** y **Tiapab (7 HP)** pueden caer en 2 golpes de goblin (avg 5 dmg)
+### ⚠️ Advertencia: Grupo Frágil
+- **Klador (7 HP)** y **Tiapab (7 HP)** caen en 2 golpes de goblin (promedio 5 dmg)
 - **Ricardo (9 HP, AC 12)** es fácil de golpear y tiene pocos HP
 - **Eira es la ÚNICA sanadora confiable** — si ella cae, el grupo está en problemas
-- **Tiapab tiene AC 18** — los goblins necesitan 18+ para golpearlo. Ponlo al frente.
+- **Tiapab tiene AC 18** — los goblins necesitan 18+ para golpearlo. Ponerlo al frente.
 - **Lance (AC 14, 10 HP)** es el más equilibrado. Debería estar atrás con el arco.
 
-### Goblin Trail Traps
-| Trap | Trigger | Effect | Spot DC | Disarm DC |
-|------|---------|--------|---------|-----------|
-| Snare | Trip wire | DC 10 DEX save or colgado boca abajo 10 ft | DC 12 Perception | DC 10 |
-| Pit | Covered pit | DC 10 DEX save or caer 10 ft (1d6 damage) | DC 15 Perception | N/A (walk around) |
+### Trampas del Sendero Goblin
+| Trampa | Activación | Efecto | DC Detectar | DC Desactivar |
+|--------|-----------|--------|-------------|---------------|
+| Lazo | Cable trampa | DC 10 DEX o colgado boca abajo a 3m | DC 12 Percepción | DC 10 |
+| Foso | Foso cubierto | DC 10 DEX o caer 3m (1d6 daño) | DC 15 Percepción | N/A (rodear) |
 
 ---
 
-## 8. Magic Item Rewards
+## 8. Recompensas
 
 - N/A para esta sesión — el tesoro es mundano
 - Sildar ofrece 50 gp si lo escoltan a Phandalin
 
 ---
 
-## 🎵 Music Cues
+## 🎵 Música
 
-| Moment | Playlist |
-|--------|----------|
-| Road travel | 🛤️ Travel / Road |
-| Camp at night | 🎉 Rest / Campfire |
-| Triboar Trail (mood shift) | 🌲 Forest / Wilderness |
-| Dead horses spotted | 😨 Tension (lower volume) |
-| Goblins attack | ⚔️ Combat |
-| After combat, searching | 🌲 Forest (quiet) |
-| Goblin trail | 😨 Tension |
-| Cragmaw entrance | 🏚️ Dungeon / Cave |
+| Momento | Playlist |
+|---------|----------|
+| Viaje por el camino | 🛤️ Viaje / Camino |
+| Campamento de noche | 🎉 Descanso / Fogata |
+| Sendero de Triboar (cambio de ánimo) | 🌲 Bosque / Naturaleza |
+| Caballos muertos | 😨 Tensión (bajar volumen) |
+| Goblins atacan | ⚔️ Combate |
+| Después del combate, buscando | 🌲 Bosque (tranquilo) |
+| Sendero goblin | 😨 Tensión |
+| Entrada Cragmaw | 🏚️ Mazmorra / Cueva |
 
 ---
 
-## 📋 DM Reminders
+## 📋 Recordatorios del DM
 
-### Before Combat
-- [ ] Establish marching order BEFORE the ambush
-- [ ] Goblin Stealth d20+6 vs each player's passive Perception:
+### Antes del Combate
+- [ ] Establecer orden de marcha ANTES de la emboscada
+- [ ] Sigilo de goblins d20+6 vs Percepción Pasiva de cada jugador:
   - Eira: 12, Lance: 12, Klador: 14 ⭐, Ricardo: 11, Tiapab: 13
-  - Klador is hardest to surprise. Ricardo is easiest.
+  - Klador es el más difícil de sorprender. Ricardo el más fácil.
 
-### During Combat
-- [ ] Narrate cinematically — "El goblin salta de los arbustos..."
-- [ ] Eira sees goblins → describe her reaction: "Reconoces esas flechas de plumas negras. Son como las que usaron los trasgos que asaltaron tu monasterio."
-- [ ] If Ricardo tries to seduce a goblin → let him roll Persuasion (+4), DC 15. On success the goblin hesitates for 1 round. On fail it attacks harder.
-- [ ] Remind Eira she can punch AND heal in the same turn (action + bonus action)
-- [ ] Remind Klador that Hellish Rebuke is a REACTION — he can use it when hit, not on his turn
-- [ ] Remind Tiapab that Bless on 3 allies (+1d4 to attacks/saves) is probably better than swinging his sword turn 1
+### Durante el Combate
+- [ ] Narrar cinematográficamente — "El goblin salta de los arbustos..."
+- [ ] Eira ve goblins → describir su reacción: "Reconoces esas flechas de plumas negras. Son como las que usaron los trasgos que asaltaron tu monasterio."
+- [ ] Si Ricardo intenta seducir un goblin → Persuasión (+4), DC 15. Éxito: el goblin duda 1 ronda. Fallo: ataca más fuerte.
+- [ ] Recordar a Eira que puede golpear Y curar en el mismo turno (acción + acción bonus)
+- [ ] Recordar a Klador que Reprensión Infernal es REACCIÓN — cuando lo golpean, no en su turno
+- [ ] Recordar a Tiapab que Bless en 3 aliados (+1d4 a ataques/salvaciones) probablemente es mejor que atacar con espada en turno 1
 
-### After Combat
-- [ ] If a goblin is captured, Tiapab speaks Goblin — let him interrogate directly
-- [ ] The last goblin FLEES toward the trail — this leads them to Cragmaw
-- [ ] Lance's Survival check to find the trail (DC 10 — he has +2, easy)
-- [ ] Don't forget: Lance wants a pistol eventually. NOT now. Seed it later.
+### Después del Combate
+- [ ] Si capturan un goblin, Tiapab habla Goblin — dejarlo interrogar directamente
+- [ ] El último goblin HUYE hacia el sendero — esto los guía a Cragmaw
+- [ ] Check de Supervivencia de Lance para encontrar el sendero (DC 10 — tiene +2, fácil)
+- [ ] No olvidar: Lance quiere una pistola eventualmente. NO ahora. Sembrar después.
 
-### Character Moments to Watch For
-- [ ] Eira's first reaction to goblins — make it personal
-- [ ] Tiapab's first choice: sword or heal?
-- [ ] Klador using Deception or Intimidation on a captured goblin
-- [ ] Lance taking command of the tactical situation (noble military training)
-- [ ] Ricardo doing something ridiculous and charming
+### Momentos de Personaje a Observar
+- [ ] Primera reacción de Eira a los goblins — hacerlo personal
+- [ ] Primera decisión de Tiapab: ¿espada o curar?
+- [ ] Klador usando Engaño o Intimidación con un goblin capturado
+- [ ] Lance tomando el mando táctico (entrenamiento militar noble)
+- [ ] Ricardo haciendo algo ridículo y encantador
+
+### 🔥 Semillas Temáticas (no forzar, solo crear oportunidades)
+- **Demonios:** Un mercader en el camino menciona "símbolos oscuros" y "olor a azufre" al sur. Observar a Lance, Klador y Tiapab.
+- **Exiliados:** En el campamento, preguntar: "¿Extrañan su hogar?" Dejar que respondan. Dejar que los OTROS escuchen.
+- **Dos sanadores:** Si alguien cae a 0 HP, ambos pueden curar. ¿Quién actúa primero? ¿Tiapab elige la espada o Cure Wounds?
 
 ---
 
-## Session Notes
+## Notas de Sesión
 
-> *Fill during or after play.*
+> *Llenar durante o después de jugar.*
 
-### What Actually Happened
-
-
-### What Went Well
+### Lo Que Pasó
 
 
-### What to Improve
+### Lo Que Salió Bien
 
 
-### For Next Session
+### Lo Que Mejorar
+
+
+### Para la Próxima Sesión
 
 - 
 - 
