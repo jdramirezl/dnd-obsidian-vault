@@ -16,12 +16,13 @@ tags:
 
 ## 1. Review the Characters
 
-| Character | Player | Class/Level | Key Motivation | Current Arc |
-|-----------|--------|-------------|----------------|-------------|
-|           | Cami   | /1          |                |             |
-|           | Mono   | /1          |                |             |
-|           | Andrew | /1          |                |             |
-|           | Juandi | /1          |                |             |
+| Character      | Player | Class/Level        | Key Motivation                                     | Current Arc |
+| -------------- | ------ | ------------------ | -------------------------------------------------- | ----------- |
+| Eira           | Cami   | Dwarf/Monk/1       |                                                    |             |
+| Tlabap Hac     | Mono   | Cleric/1           |                                                    |             |
+| Klador         | Andrew | Half-Elf/Warlock/1 |                                                    |             |
+| Lance Khaligan | Juandi | Human/Ranger/1     | En algun momento darle pistola y maestria en ella. |             |
+| Ricardo Milos  | David  | Human/Fighter/1    |                                                    |             |
 
 - [ ] Can I remember all their names?
 - [ ] What do the players (not characters) enjoy most?
@@ -128,12 +129,23 @@ tags:
 
 ### What Actually Happened
 
+- ✅ Character creation completed for all 5 players
+- ✅ Read the opening hook in Spanish (Gundren's job offer)
+- ✅ Read the Neverwinter morning scene — players described their characters
+- ⏸️ Stopped after the morning scene — didn't reach the ambush
+- ⚠️ Still missing: alliances, enemies, bonds, flaws, physical descriptions for all characters
 
-### Memorable Moments
+### What Went Well
+
+
+### What to Improve
 
 
 ### For Next Session
 
-- 
-- 
-- 
+- [ ] Players need to finish: bonds, flaws, allies, enemies, physical descriptions
+- [ ] Start with the road travel scenes (Day 1 road → camp → Day 2 Triboar Trail)
+- [ ] Run the Goblin Ambush
+- [ ] If time: Goblin Trail + start of Cragmaw Hideout
+- [ ] Ask players to send character backstories before next session
+

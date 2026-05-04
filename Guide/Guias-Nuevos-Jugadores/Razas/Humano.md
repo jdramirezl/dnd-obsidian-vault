@@ -105,3 +105,5 @@ No hay subrazas mecánicas, pero hay **9 etnias** con diferentes nombres y cultu
 Los nombres varían enormemente según la etnia/cultura. Algunos ejemplos:
 **Calishita:** Rasheed, Zasheida | **Chondathano:** Darvin, Tessele
 **Illuskano:** Bran, Amafrey | **Shou:** Chen, Mei | **Tethyriano:** Darvin, Miri
+
+
