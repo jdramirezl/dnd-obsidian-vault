@@ -22,24 +22,25 @@ tags:
 
 | Stat | Value |
 |------|-------|
-| **AC** | 12 ⚠️ (sin armadura) |
-| **HP** | 9/9 ⚠️ (Con -1, muy bajo) |
+| **AC** | 12 ⚠️⚠️ (NO ARMOR — needs Chain Mail for AC 16) |
+| **HP** | 9/9 ⚠️ (Con -1, very low) |
 | **Speed** | 30 ft |
-| **Initiative** | +4 (incluye proficiency por Alert) |
+| **Initiative** | +4 (DEX +2, Prof +2 from Alert) |
 | **Passive Perception** | 11 |
+| **Passive Insight** | 11 |
 | **Hit Dice** | 1d10 |
 | **Proficiency** | +2 |
 
 ### Saving Throws
-- ⭐ **STR** +5, **CON** +1
+- ⭐ **STR** +5, ⭐ **CON** +1
 - DEX +2, INT +0, WIS +1, CHA +2
 
-### Skills (proficient marked ⭐)
+### Skills (proficient ⭐)
+- ⭐ Acrobatics +4
 - ⭐ Athletics +5
 - ⭐ Intimidation +4
 - ⭐ Persuasion +4
 - ⭐ Survival +3
-- ⭐ Acrobatics +4
 
 ---
 
@@ -48,37 +49,43 @@ tags:
 ### Fighting Style
 **Two-Weapon Fighting** — Add ability modifier to off-hand damage.
 
-### Weapon Masteries (3)
-| Weapon | Mastery |
-|--------|---------|
-| Greatclub | Push |
-| Whip | Slow |
-| Trident | Topple |
+### Weapon Masteries (3/3) ✅
+| Weapon | Mastery | Effect |
+|--------|---------|--------|
+| Scimitar | **Nick** | Off-hand attack doesn't cost bonus action |
+| Shortsword | **Vex** | On hit, next attack has advantage |
+| Greatsword | **Graze** | On miss, still deal STR mod damage |
 
-### Attacks
-- **Unarmed Strike:** +10 to hit (?), 4 damage ⚠️ (verify this — seems too high for level 1)
+### Attacks (once he buys Scimitars)
+| Attack | Range | Hit | Damage | Notes |
+|--------|-------|-----|--------|-------|
+| Scimitar (main) | 5 ft | +5 | 1d6+3 slashing | Nick = free off-hand attack |
+| Scimitar (off-hand) | 5 ft | +5 | 1d6+3 slashing | TWF adds STR mod |
+| Unarmed Strike | 5 ft | +5 | 1+3 bludgeoning | Backup |
+| **Total per turn** | — | — | **2d6+6 avg 13** | Two scimitar swings |
 
 ### Features
-- **Second Wind** (bonus action) — Heal 1d10+1. 1/short rest.
-- **Alert** — Add proficiency to Initiative. Can swap initiative with willing ally.
+- **Second Wind** (bonus action) — Heal 1d10+1. 2 uses, recharge on short rest. ⭐ Nick mastery frees his bonus action for this!
+- **Alert** — Prof bonus on Initiative. Can swap initiative with willing ally.
 - **Savage Attacker** — Once per turn, roll weapon damage twice, use either.
-- **Resourceful** (Human) — Gain Heroic Inspiration on every Long Rest.
+- **Resourceful** (Human) — Heroic Inspiration on every Long Rest.
 
 ---
 
 ## Equipment
 
-⚠️ **EMPTY — needs to buy gear!**
-- **Gold:** 205 gp
-- **No weapons, no armor listed**
+⚠️⚠️ **STILL EMPTY — David must buy before session 2!**
 
-### Recommended purchases:
-| Item | Cost | Why |
-|------|------|-----|
-| 2 Shortswords | 20 gp | Light property for Two-Weapon Fighting |
-| Chain Mail | 75 gp | AC 16 (needs it desperately with 9 HP) |
-| Explorer's Pack | 10 gp | Basics |
-| **Total** | 105 gp | Leaves 100 gp |
+**Gold:** 205 gp
+
+### Shopping List (send to David)
+| Item | Cost |
+|------|------|
+| 2 Scimitars | 50 gp |
+| Chain Mail | 75 gp |
+| Explorer's Pack | 10 gp |
+| **Total** | **135 gp** |
+| **Remaining** | **70 gp** |
 
 ---
 
@@ -106,32 +113,37 @@ tags:
 Fue **invocado a este mundo por un hechicero poderoso**. Apareció sin nada y llegó al pueblo casi desnudo con el dinero que encontró en el camino. Antes de ser invocado era un guerrero muy poderoso que seducía a sus enemigos y se acostaba con ellos antes de matarlos con sus propias manos. La gente lo respetaba y se hipnotizaban al verlo bailar.
 
 ### Organization
-**Los Picha Grandes** — Una organización de soldados superdotados que mataban a sus enemigos a manos limpia y a punta de "sable."
+**Los Picha Grandes** — Organización de soldados superdotados que mataban a sus enemigos a manos limpia y a punta de "sable."
 
 ### Allies
 - Humanos (en general)
 
 ### Enemies
-- **Los Enanos Negros** — Una vez un enano negro se aprovechó de su bondad y mató a uno de sus aliados. Desde ese día juró nunca confiar en uno.
+- **Los Enanos Negros** — Un enano negro se aprovechó de su bondad y mató a uno de sus aliados. Juró nunca confiar en uno.
 
 ---
 
 ## DM Notes
 
-### ⚠️ Sheet Issues to Fix
-1. **No tiene equipo** — necesita comprar armas y armadura antes de la sesión 2
-2. **AC 12 y 9 HP** — es el más frágil del grupo. Un golpe crítico de goblin lo puede noquear
-3. **Resistencias/Inmunidades listadas** (Fire, Piercing, Thunder resistance + Slashing immunity + Charmed immunity) — NO deberían estar ahí. Probablemente error de Roll20. Verificar y quitar.
-4. **Unarmed Strike +10** — parece incorrecto para nivel 1. Debería ser +5 (STR +3, Prof +2)
-5. **Weapon Masteries** no combinan con Two-Weapon Fighting (Greatclub/Whip/Trident no son Light). Sugerir cambiar a Shortsword/Scimitar masteries.
+### ⚠️ Sheet Issues Still Pending
+1. **REMOVE Acid Vulnerability** — still listed under Defenses. Should have none.
+2. **Clear DMG 2 on Unarmed Strike** — shows "3" as leftover. Clear it.
+3. **NO EQUIPMENT** — 205 gp sitting unused. Must buy gear before session 2.
 
 ### Adventure Hooks
-- **Invocado por un hechicero** → ¿La Araña Negra es un hechicero? Conexión potencial
-- **Enemigos: enanos negros** → Duergar en Wave Echo Cave más adelante
-- **Llegó sin nada** → El trabajo de Gundren es literalmente su primer ingreso en este mundo
-- **Baile/seducción** → Usar para checks de Persuasion/Performance en Phandalin
+- **Invocado por un hechicero** → ¿La Araña Negra es un hechicero? Conexión potencial.
+- **Enemigos: enanos negros** → Duergar en Wave Echo Cave más adelante.
+- **Llegó sin nada** → El trabajo de Gundren es su primer ingreso en este mundo.
+- **Baile/seducción** → Usar para checks de Persuasion/Performance en Phandalin.
 
 ### Roleplay Moments to Create
 - Un NPC en Phandalin que se queda mirándolo embobado
 - Un goblin que duda antes de atacar porque Ricardo le guiña el ojo
-- Sildar Hallwinter incómodo pero profesionalmente agradecido si lo rescatan
+- Sildar Hallwinter incómodo pero profesionalmente agradecido
+- Nick mastery + Second Wind combo: ataca dos veces sin usar bonus action, then heals. Feels heroic.
+
+### Party Dynamics
+- **Ricardo + Klador** — Honesto himbo vs manipulative spy. Perfect odd couple.
+- **Ricardo + Eira** — She'll be keeping him alive (9 HP). Protective dynamic.
+- **Ricardo + Lance** — Both soldiers, different styles. Respect through combat.
+- **Ricardo + Tiapab** — Both want to be swordsmen. Rivalry or brotherhood?

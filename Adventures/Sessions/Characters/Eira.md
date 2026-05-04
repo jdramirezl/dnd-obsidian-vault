@@ -22,93 +22,91 @@ tags:
 
 | Stat | Value |
 |------|-------|
-| **AC** | 14 (Unarmored Defense: 10 + DEX 2 + WIS 2) |
-| **HP** | 10/10 (includes Dwarven Toughness +1) |
+| **AC** | 14 ✅ (Unarmored: 10 + DEX 2 + WIS 2) |
+| **HP** | 10/10 ✅ (includes Dwarven Toughness +1) |
 | **Speed** | 30 ft |
 | **Initiative** | +2 |
 | **Passive Perception** | 12 |
-| **Passive Insight** | 14 (highest in party) |
-| **Darkvision** | 120 ft ⭐ (dwarf 2024 rules) |
+| **Passive Insight** | 14 ⭐ (highest in party) |
+| **Darkvision** | 120 ft ⭐ |
 | **Hit Dice** | 1d8 |
 | **Proficiency** | +2 |
-| **Spell Save DC** | 12 (WIS-based, from Magic Initiate) |
+| **Spell Save DC** | 12 (Magic Initiate, WIS) |
 
 ### Saving Throws
 - ⭐ **STR** +1, ⭐ **DEX** +4
 - CON +1, INT +1, WIS +2, CHA +1
 
-### Skills (proficient marked ⭐)
+### Skills (proficient ⭐)
 - ⭐ Acrobatics +4
 - ⭐ Insight +4
 - ⭐ Religion +3
 - ⭐ Stealth +4
 
-### Racial Traits (Dwarf — 2024 rules)
-- **Darkvision** 120 ft
-- **Dwarven Resilience** — Resistance to Poison damage + Advantage on saves vs Poisoned
-- **Dwarven Toughness** — +1 HP per level
-- **Stonecunning** — Bonus action: Tremorsense 60 ft for 10 min on stone (Prof bonus uses/long rest)
+### Racial Traits (Dwarf 2024)
+- Darkvision 120 ft
+- Dwarven Resilience (Poison resistance + advantage vs Poisoned)
+- Dwarven Toughness (+1 HP per level)
+- Stonecunning (bonus action: Tremorsense 60 ft on stone, 2 uses/long rest)
 
 ### Tools
 - Calligrapher's Supplies
-- Alchemist's Supplies ⭐ (key to her character — potion/medicine crafting)
+- Alchemist's Supplies ⭐
 
 ---
 
 ## Combat
 
 ### Martial Arts
-- **Bonus Unarmed Strike** — Free extra punch as bonus action every turn
-- **Martial Arts Die** — 1d6 (replaces unarmed 1+STR)
-- **Dexterous Attacks** — Use DEX instead of STR for unarmed strikes and monk weapons
+- Use DEX for all unarmed strikes and monk weapons
+- Martial Arts die: 1d6
+- Bonus Unarmed Strike every turn (free)
 
 ### Attacks
 | Attack | Range | Hit | Damage | Notes |
 |--------|-------|-----|--------|-------|
-| Unarmed Strike | 5 ft | +4 (DEX) | 1d6+2 | Martial Arts die |
-| Bonus Unarmed Strike | 5 ft | +4 (DEX) | 1d6+2 | Free every turn |
-| **Total per turn** | — | — | **2d6+4 avg 11** | Two punches! |
+| **Unarmed Strike** ⭐ | 5 ft | +4 | 1d6+2 | Primary attack ✅ |
+| **Bonus Unarmed Strike** | 5 ft | +4 | 1d6+2 | Free every turn (Martial Arts) |
+| Spear (1H) | 5 ft | +4 | 1d6+2 | ⚠️ Fix: uses DEX via Martial Arts |
+| Spear (2H) | 5 ft | +4 | 1d8+2 | ⚠️ Fix: uses DEX via Martial Arts |
+| Spear (thrown) | 20/60 ft | +4 | 1d6+2 | ⚠️ Fix: uses DEX via Martial Arts |
+| Dart | 20/60 ft | +4 | 1d4+2 | Ranged option |
+| **Total melee per turn** | — | — | **2d6+4 avg 11** | Punch + bonus punch |
 
-### Unarmored Defense
-- AC = 10 + DEX (+2) + WIS (+2) = **14**
-- ⚠️ Wearing armor disables this AND Martial Arts. Never wear armor.
+### Spells (Magic Initiate: Cleric, WIS-based, DC 12)
 
-### Spells (from Magic Initiate: Cleric)
-
-**Cantrips (at will, WIS-based):**
+**Cantrips (at will):**
 | Spell | Range | Effect |
 |-------|-------|--------|
-| **Guidance** | Touch, Concentration | Target adds 1d4 to one ability check. Use CONSTANTLY. |
-| **Spare the Dying** | 15 ft | Stabilize creature at 0 HP. No check needed. |
+| **Guidance** ⭐ | Touch, Concentration | +1d4 to one ability check. USE CONSTANTLY. |
+| **Spare the Dying** | 15 ft | Stabilize at 0 HP. No check. |
 
-**1st Level (1 free cast/long rest, or use spell slots if multiclass):**
+**1st Level (1 free cast/long rest):**
 | Spell | Range | Effect |
 |-------|-------|--------|
-| **Healing Word** | 60 ft | Bonus action, heal 2d4+2. Can heal from range! |
+| **Healing Word** ⭐ | 60 ft | BONUS ACTION. Heal 2d4+2. Can heal AND punch same turn! |
 
-### Stonecunning (Bonus Action)
-- Gain **Tremorsense 60 ft** for 10 min
-- Must be on/touching stone
-- 2 uses per long rest (= proficiency bonus)
-- Detects creatures on the ground within 60 ft even if invisible/hidden
+### Key Features
+- **Dwarven Resilience** — Poison resistance + advantage on Poisoned saves
+- **Stonecunning** — Bonus action: Tremorsense 60 ft for 10 min on stone (2/long rest)
+- **Magic Initiate (Cleric)** — Guidance, Spare the Dying, Healing Word
 
 ---
 
-## Equipment
+## Equipment ✅
 
-⚠️ **EMPTY — needs gear!**
-- **Gold:** 0 gp ⚠️
-- No weapons, no supplies listed
+**Gold:** 1 gp
 
-### Recommended (she doesn't need much as a Monk):
-| Item | Cost | Why |
-|------|------|-----|
-| Explorer's Pack | 10 gp | Basics |
-| Healer's Kit | 5 gp | Fits her character perfectly |
-| Herbalism Kit | 5 gp | For crafting medicines (her whole identity) |
-| Alchemist's Supplies | 50 gp | She has proficiency — let her use it |
-| Darts (10) | 0.5 gp | Ranged option for a monk |
-| **Total** | ~71 gp | Needs gold from party or advance from Gundren |
+### Weapons
+- Spear (versatile, thrown)
+- Darts (⚠️ only 1 listed, should be 10)
+
+### Gear
+- Backpack, Explorer's Pack
+- Bedroll, Waterskin, Rope 50 ft, Tinderbox
+- 10 Torches, 10 Rations, 2 Oil flasks
+- Healer's Kit (10 uses) ✅
+- Herbalism Kit ✅
 
 ---
 
@@ -117,80 +115,71 @@ tags:
 ### Appearance
 - **Height:** 1.20m | **Weight:** 70 kg
 - **Eyes:** Verde brillante
-- **Hair:** Trenzado, rojizo, con cuentas de cobre y hierbas entre el cabello
+- **Hair:** Trenzado, rojizo, con cuentas de cobre y hierbas
 - **Skin:** Blanca, con manchas de reactivos en manos y rostro
 - **Age:** 75 años
 - **Faith:** Sharindlar (diosa enana de la curación y el amor)
-- **Vibe:** Sanadora militar. Manos siempre ocupadas limpiando herramientas. Voz fuerte y clara, acostumbrada a dar órdenes médicas.
 
 ### Traits
 - Voz fuerte y clara — da órdenes y diagnósticos con autoridad
-- Siempre limpiando algo — el orden y la higiene son la base de todo
-- **Bond:** Lleva el diario médico de su mentor. Su meta es completarlo con curas para enfermedades sin remedio.
-- **Flaw:** Muy terca con sus diagnósticos. Si alguien necesita reposo, lo OBLIGARÁ a descansar.
-- **Ideal:** Compasión — ninguna criatura viviente debería sufrir si ella puede evitarlo.
-
-### Código Médico Enano
-- Nunca rechazará a un herido, a menos que su vida amenace a sus amigos/aliados
-- Prefiere el olor de hierbas sanadoras que la cerveza (¡herejía para una enana!)
-- Puede fabricar antitoxinas, jabones y fuego alquímico si tiene materiales
+- Siempre limpiando algo — orden e higiene son la base de todo
+- **Bond:** Diario médico de su mentor. Meta: completarlo con curas para enfermedades sin remedio.
+- **Flaw:** Terca con diagnósticos. Si necesitas reposo, te OBLIGARÁ a descansar.
+- **Ideal:** Compasión — ninguna criatura debería sufrir si ella puede evitarlo.
+- **Código Médico:** Nunca rechaza a un herido. Prefiere hierbas a cerveza. Puede fabricar antitoxinas, jabones y fuego alquímico.
 
 ---
 
 ## Backstory
 
-Nació en las **montañas del norte**, hija de una tradición minera. Vio a sus padres y hermanos **sucumbir por enfermedades en las minas**. Decidió que su fuerza no se usaría para empuñar un pico, sino para mantener a otros en pie.
+Nació en las montañas del norte, tradición minera. Vio a su familia **sucumbir por enfermedades en las minas**. Descubrió que era **corrupción mágica de una reliquia profanada**. Intentó detener la excavación → **exiliada como alborotadora**.
 
-**El descubrimiento:** La enfermedad no era natural — era una **corrupción mágica** que emanaba de una **reliquia profanada** en las profundidades de la mina. Cuando intentó detener la excavación, fue tildada de alborotadora y **exiliada de su hogar**.
-
-**El juramento:** Perfeccionar una medicina que no solo cure el cuerpo, sino que **purgue la oscuridad**. Lleva consigo un vial con una muestra de la **"Veta Gris"** — la enfermedad que todavía late lentamente, recordándole que su tiempo se agota si quiere salvar lo que queda de su clan.
+Lleva un vial de la **"Veta Gris"** — la enfermedad que aún late, recordándole que su tiempo se agota.
 
 **No es solo una sanadora; es una proscrita buscando la redención a través de la ciencia prohibida.**
 
 ### Organization
-**Hospicio de Sharindlar** — Monasterio enano dedicado a curar guerreros heridos en las minas y en la guerra.
+- Hospicio de Sharindlar (monasterio enano de curación)
 
 ### Allies
-- **Clérigo Balthazar** — El viejo monje que le enseñó a mezclar ungüentos alquímicos y a canalizar energías para curar heridas.
+- Clérigo Balthazar (mentor, enseñó ungüentos y canalización)
 
 ### Enemies
-- **Valerius el Elfo Alquimista** — Despreció los remedios enanos llamándolos "brebajes de lodo". En general no le caen bien los elfos: "altos, estúpidos y pretenciosos."
-- **El Clan de los Trasgos** — Banda de goblins que asaltaron el monasterio para robar suministros médicos. Guarda un rencor profundo por profanar lugares de sanación.
+- Valerius el Elfo Alquimista ("brebajes de lodo") — no le gustan los elfos en general
+- El Clan de los Trasgos — goblins que asaltaron el monasterio
 
 ---
 
 ## DM Notes
 
 ### ⚠️ Sheet Issues to Fix
-1. **0 gold y 0 equipo** — Necesita dinero urgente. Opciones: el grupo le presta, Gundren le dio un adelanto, o encontró suministros en el camino.
-2. **Unarmed Strike muestra +1 attack y 0 damage en Roll20** — Está mal configurado. Debería ser +4 to hit (DEX + Prof) y 1d6+2 damage (Martial Arts die + DEX).
-3. **Healing Word listada como acción** — Es BONUS ACTION. Puede curar Y atacar en el mismo turno. Esto es clave.
-4. **No tiene armas de rango** — Comprar darts (5 cp por 1) o usar objetos improvisados.
+1. **Spear attacks use STR (-1)** — should use DEX (+2) via Martial Arts. Change all 3 spear entries: Ability → DEX, result +4 to hit, 1d6+2 / 1d8+2 damage.
+2. **Delete "Dart (Finesse)"** entry — shows 1d4-1 (wrong). Keep the other Dart entry (+4, 1d4+2) and set range to 20/60 ft (not melee 5 ft).
+3. **Dart quantity: 1** → change to **10** in Equipment.
+4. **Add Bonus Unarmed Strike** to Bonus Actions: "Golpe sin armas adicional (Artes Marciales). +4 al ataque, 1d6+2 contundente."
+5. **Healing Word in Attacks section** — cosmetic issue, works fine as bonus action regardless.
 
-### 🏆 Eira es la SANADORA del grupo
-- Healing Word (bonus action, 60 ft range) = puede curar a distancia mientras pelea
-- Spare the Dying (15 ft) = estabiliza sin check
-- Guidance = +1d4 a cualquier check de habilidad del grupo
-- Healer's Kit (si lo compra) = estabilizar sin gastar spell
-- **El grupo DEPENDE de ella para sobrevivir** — con Ricardo (9 HP) y Klador (7 HP), va a estar ocupada
+### Player Homework (minimal!)
+- [ ] Fill appearance in Roll20 fields (data exists in About but not in the fields)
 
-### Adventure Hooks — PERFECTOS PARA LMOP
-- **Goblins asaltaron su monasterio** → Los goblins de Cragmaw son su enemigo personal. La emboscada no es solo un encuentro — es PERSONAL.
-- **Busca ingredientes raros** → Wave Echo Cave era una mina mágica. ¿Qué ingredientes alquímicos podría encontrar ahí?
-- **La Veta Gris (corrupción mágica de una reliquia)** → La Forja de Conjuros en Wave Echo Cave es una reliquia mágica. ¿Conexión con la corrupción de su mina?
-- **Exiliada por decir la verdad** → Paralelo con Phandalin, donde los Redbrands intimidan a quien habla. Eira no se callará.
-- **No le gustan los elfos** → Si interactúa con elfos en la aventura, habrá fricción. Klador es MEDIO elfo — tensión potencial.
+### 🏆 Eira is the PARTY HEALER
+- Healing Word (bonus action, 60 ft) = heal from range while fighting
+- Spare the Dying (15 ft) = stabilize without check
+- Guidance = +1d4 to any ability check
+- Healer's Kit = stabilize without spell
+- **The group DEPENDS on her** — Ricardo (9 HP) and Klador (7 HP) will need her
 
-### Roleplay Moments to Create
-- Eira ve a los goblins de la emboscada y reconoce el tipo — "Estos son como los que asaltaron mi monasterio"
-- Alguien del grupo se hiere y Eira INSISTE en que descanse (su flaw) — conflicto con el grupo que quiere seguir
-- Encuentra hierbas o ingredientes en el bosque/cueva y se emociona
-- Un NPC herido en Phandalin que nadie ha podido curar — Eira puede
-- Descubre algo en Wave Echo Cave que se parece a la Veta Gris
+### Adventure Hooks
+- **Goblins asaltaron su monasterio** → The ambush goblins are PERSONAL
+- **Busca ingredientes raros** → Wave Echo Cave = magical mine
+- **La Veta Gris (corrupción de reliquia)** → Forge of Spells connection?
+- **Exiliada por decir la verdad** → Parallels Phandalin's Redbrand intimidation
+- **No le gustan los elfos** → Klador (half-elf) and Tiapab (elf) = tension
 
 ### Party Dynamics
-- **Eira + Ricardo/Klador** — Ellos son frágiles (7-9 HP), ella es la sanadora. Relación de dependencia inmediata.
-- **Eira + Lance** — Ambos son serios, con propósito, leales. Aliados naturales.
-- **Eira + Klador** — Él es medio elfo. Ella no confía en elfos. TENSIÓN.
-- **Eira vs Goblins** — Esto es personal. La emboscada va a ser emocional para ella.
-- **Eira como "mamá del grupo"** — Con su personalidad de dar órdenes médicas y obligar a descansar, naturalmente se convierte en la que cuida a todos.
+- **Eira + Ricardo/Klador** — They're fragile, she heals. Immediate dependency.
+- **Eira + Lance** — Both exiles who did the right thing. Natural allies.
+- **Eira + Klador** — He's half-elf. She distrusts elves. TENSION.
+- **Eira + Tiapab** — Both healers, opposite attitudes. She embraces it, he rejects it.
+- **Eira vs Goblins** — The ambush is personal. Emotional combat.
+- **Party mom** — Will order people to rest, clean wounds, eat properly.

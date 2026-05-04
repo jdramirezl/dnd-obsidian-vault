@@ -22,91 +22,89 @@ tags:
 
 | Stat | Value |
 |------|-------|
-| **AC** | 14 (Studded Leather + DEX) |
-| **HP** | 10/10 |
+| **AC** | 14 ✅ (Studded Leather 12 + DEX 4 - 2 = 14) |
+| **HP** | 10/10 ✅ |
 | **Speed** | 30 ft |
 | **Initiative** | +4 |
 | **Passive Perception** | 12 |
 | **Passive Investigation** | 13 |
 | **Hit Dice** | 1d10 |
 | **Proficiency** | +2 |
-| **Spell Save DC** | 10 (8 + WIS 0 + Prof 2) |
+| **Spell Save DC** | 10 |
+| **Spell Attack** | +2 |
 
 ### Saving Throws
 - ⭐ **STR** +3, ⭐ **DEX** +6
 - CON +0, INT +3, WIS +0, CHA -2
 
-### Skills (proficient marked ⭐)
-- ⭐ Animal Handling +2
-- ⭐ Athletics +3
-- ⭐ Insight +2
-- ⭐ Intimidation +0
-- ⭐ Investigation +3 (from Skilled feat? verify)
-- ⭐ Perception +2
-- ⭐ Survival +2
+### Skills (proficient ⭐)
+- ⭐ Animal Handling +2 (Ranger)
+- ⭐ Athletics +3 (Soldier)
+- ⭐ Insight +2 (Ranger)
+- ⭐ Intimidation +0 (Soldier)
+- ⭐ Perception +2 (Ranger)
+- ⭐ Survival +2 (Ranger? or Skilled?)
+- ⚠️ **Missing 2 proficiencies from Skilled feat** — needs to pick 2 more
 
 ---
 
 ## Combat
 
-### Weapon Masteries (2)
-| Weapon | Mastery |
-|--------|---------|
-| Greatsword | Graze (deal STR/DEX mod damage even on a miss) |
-| Longbow | Slow (speed -10 ft on hit) |
+### Weapon Masteries (2/2) ✅
+| Weapon | Mastery | Effect |
+|--------|---------|--------|
+| Greatsword | Graze | On miss, deal DEX/STR mod damage anyway |
+| Longbow | Slow | On hit, target speed -10 ft until start of your next turn |
 
-### Attacks
-| Weapon | Range | Hit | Damage | Properties |
-|--------|-------|-----|--------|------------|
-| Longbow | 150/600 ft | +6 | 1d8+4 | Ammunition, Heavy, Two-Handed |
-| Shortbow | 80/320 ft | +6 | 1d6+4 | Ammunition, Two-Handed |
-| Shortsword | Melee 5 ft | +6 | 1d6+4 | Finesse, Light |
-| Scimitar | Melee 5 ft | +6 | 1d6+4 | Finesse, Light |
-| Spear | Melee/20/60 ft | +3 | 1d6+1 (1d8+1 versatile) | Thrown, Versatile |
+### Attacks ⚠️ (need to be set up in Roll20)
+| Attack | Range | Hit | Damage | Notes |
+|--------|-------|-----|--------|-------|
+| **Longbow** ⭐ | 150/600 ft | +6 | 1d8+4 | Primary weapon. Heavy, Two-Handed. |
+| Shortsword | 5 ft | +6 | 1d6+4 | Finesse, Light |
+| Scimitar | 5 ft | +6 | 1d6+4 | Finesse, Light |
+| Spear (melee) | 5 ft | +3 | 1d6+1 (1d8+1 versatile) | STR-based |
+| Spear (thrown) | 20/60 ft | +3 | 1d6+1 | STR-based |
+| Shortbow | 80/320 ft | +6 | 1d6+4 | Redundant with Longbow |
+| **With Hunter's Mark** | — | — | +1d6 extra | On any hit against marked target |
 
 ### Spells (2 slots, WIS-based, DC 10)
-| Spell | Notes |
-|-------|-------|
-| **Hunter's Mark** ⭐ | Always prepared (Favored Enemy). 2 free casts/long rest. Bonus action, concentration. +1d6 damage per hit on marked target. |
-| Detect Poison and Disease | Ritual. Concentration, 10 min. |
-| Speak with Animals | Ritual. 10 min duration. |
+| Spell | Type | Effect |
+|-------|------|--------|
+| **Hunter's Mark** ⭐ | Bonus action, Concentration | +1d6 damage per hit on marked target. 2 FREE casts/long rest (Favored Enemy). |
+| Detect Poison and Disease | Ritual, Concentration | Detect within 30 ft for 10 min |
+| Speak with Animals | Ritual | Understand/communicate with beasts for 10 min |
 
 ### Features
 - **Favored Enemy** — Hunter's Mark always prepared, 2 free casts/long rest
 - **Savage Attacker** — Once per turn, roll weapon damage twice, use either
-- **Skilled** (Human feat) — 3 extra skill/tool proficiencies
+- **Skilled** — 3 extra proficiencies (⚠️ only 1 used so far, 2 remaining)
 - **Resourceful** (Human) — Heroic Inspiration on every Long Rest
 
-### Utility Actions
-- **Healer's Kit** (10 uses) — Utilize action to stabilize at 0 HP, no Medicine check needed
-- **Oil Flask** — Throw (DEX save DC 14) for 5 fire damage, or pour on ground (5 ft square, burns 2 rounds)
-- **Tinderbox** — Bonus action to light things on fire
+### Utility
+- **Healer's Kit** (10 uses) — Stabilize at 0 HP, no check
+- **Oil Flask** (×2) — DEX save DC 14, 5 fire damage
+- **Tinderbox** — Bonus action to light things
 
 ---
 
-## Equipment
-
-**Gold:** 21 gp
+## Equipment ✅
 
 ### Weapons
 - Longbow + 40 arrows (2 quivers)
-- Shortbow
-- Shortsword
-- Scimitar
-- Spear
-- 10 Torches (can be used as improvised weapons)
+- Shortbow (redundant — consider selling for 12 gp)
+- Shortsword, Scimitar, Spear
+- 10 Torches
 
 ### Armor
-- Studded Leather (AC 12 + DEX = 14)
+- Studded Leather (AC 12 + DEX 4 = 14)
 
 ### Gear
-- Backpack, Explorer's Pack
-- Bedroll, Waterskin, Rope (50 ft)
-- Tinderbox, 2 Oil flasks
-- Healer's Kit (10 uses)
-- Druidic Focus (sprig of mistletoe)
-- Traveler's Clothes
-- 10 Rations
+- Backpack, Explorer's Pack, Bedroll, Waterskin
+- Rope 50 ft, Tinderbox, 2 Oil flasks
+- Healer's Kit (10 uses), Druidic Focus (mistletoe)
+- Traveler's Clothes, 10 Rations
+
+### Gold: 21 gp
 
 ---
 
@@ -116,66 +114,55 @@ tags:
 - **Height:** 5'10" | **Weight:** 187 lb
 - **Eyes:** Azules | **Hair:** Negro con canas (estrés) | **Skin:** Caucásica
 - **Age:** 28
-- **Vibe:** Contextura media, rasgos Chondathanos promedio. Barba siempre afeitada. El cabello canoso delata lo que ha sufrido.
+- **Vibe:** Contextura media, rasgos Chondathanos. Barba siempre afeitada. Cabello canoso delata sufrimiento.
 
 ### Traits
 - Confiable, hombre de palabra, leal, con propósito
-- Te da una mano siempre y cuando tú también des la tuya
-- **Flaw:** Desconfiado — necesita mucho tiempo para confiar en la gente. Su viaje a Neverwinter le enseñó el lado oscuro de las personas.
-
-### Faith
-- Creyente (no especifica deidad)
-
-### Ideal
-- Organizar una facción poderosa y atacar las fuerzas demoníacas para recuperar su hogar: el Castillo de Otoño Eterno en Andalond.
+- **Flaw:** Desconfiado — necesita mucho tiempo para confiar. Su viaje le enseñó el lado oscuro de las personas.
+- **Ideal:** Organizar una facción y recuperar el Castillo de Otoño Eterno en Andalond.
+- **Faith:** Creyente (no especifica deidad)
 
 ---
 
 ## Backstory
 
-Hijo del **Marqués Gerard Andalond**, comandante segundo de las fuerzas del Marquesado en las tierras centrales Chondathanas. Su padre protegía la frontera del reino de Aldmakur contra los demonios.
+Hijo del **Marqués Gerard Andalond**, comandante segundo del Marquesado en tierras Chondathanas. El **Demonio Mayor Tharkulag** invadió. Los aliados **Dracónidos de Tierra Alta traicionaron** al Marqués por tratos con demonios. Su padre le ordenó huir al norte.
 
-El **Demonio Mayor Tharkulag** marchó con un gran ejército hacia la frontera. El Marqués llamó a sus aliados, los **Dracónidos de Tierra Alta**, para repeler la invasión — tenían un tratado. Pero en medio de la batalla, **los Dracónidos traicionaron al Marqués** por tratos sucios con los demonios.
-
-En el caos, su padre le ordenó huir al norte. Tras **un año de viaje** llegó a Neverwinter, donde trabajó **4 años como aventurero**, combinando sus conocimientos nobles y militares con habilidades del mundo real.
-
-Su apellido **Khaligan** es la mezcla de los nombres de su mejor amigo **Ganlido** y su maestro de armas **Khaswell** — ambos muertos en batalla al ayudarlo a huir.
+Tras **un año de viaje** llegó a Neverwinter. Trabajó **4 años como aventurero**. Su apellido **Khaligan** honra a su amigo **Ganlido** y su maestro de armas **Khaswell** — ambos muertos ayudándolo a huir.
 
 ### Organization
-**Marquesado de Andalond** — Encargado de cuidar la frontera del reino de Aldmakur. Destruido por la traición de los Dracónidos y la invasión demoníaca.
+- Marquesado de Andalond (destruido)
 
 ### Allies
-- Humanos, Elfos, Enanos — toda raza que esté en contra de los demonios
+- Toda raza contra los demonios
 
 ### Enemies
-- **Los Demonios y todos sus aliados** — especialmente los que pactan con demonios, sin importar la raza
-- **Dracónidos traidores** — desconfianza profunda hacia los Dracónidos por la traición de Tierra Alta
+- Demonios y todos sus aliados (especialmente Dracónidos traidores)
 
 ---
 
 ## DM Notes
 
-### ⚠️ Sheet Issues to Check
-1. **WIS 11 (+0) como Ranger** — su spell save DC es solo 10 y sus spells de WIS serán débiles. No es un problema grave porque Hunter's Mark no usa save DC, pero limita opciones futuras.
-2. **CHA 7 (-2)** — terrible en social. Esto es roleplay gold: un noble caído que ya no sabe cómo hablar con la gente después de años de trauma.
-3. **Greatsword mastery pero no tiene Greatsword** — ¿la quiere comprar? Solo tiene 21 gp (Greatsword = 50 gp). Podría encontrar una como loot.
-4. **Longbow + Shortbow** — redundante. El Shortbow es estrictamente peor. Puede venderlo (25 gp / 2 = 12 gp).
+### ⚠️ Sheet Issues to Fix
+1. **Set up weapon attacks in Roll20** — Longbow (+6, 1d8+4), Shortsword (+6, 1d6+4), Scimitar (+6, 1d6+4). Currently only Unarmed Strike exists.
+2. **Add Hunter's Mark as Bonus Action** in Roll20 — "Acción bonus. Concentración. Marca un objetivo a 90 pies. +1d6 daño por golpe contra el marcado."
+3. **Pick 2 more skill proficiencies** from Skilled feat — recommend Stealth (+6!) and Nature (+5)
+4. **Consider selling Shortbow** — strictly worse than Longbow, gets 12 gp back
 
 ### 🔫 Pistol Plan
-- Juandi quiere una pistola eventualmente
-- **No darla ahora** — seedear más adelante como quest reward o loot especial
-- Podría encontrar un prototipo gnomo en Wave Echo Cave o comprarlo a un inventor en Phandalin
-- Con Archery fighting style (si lo toma en nivel 2+ o multiclass), sería devastador
+- Juandi wants a pistol eventually
+- Seed later as quest reward or gnome inventor loot
+- With Longbow mastery (Slow) already, a pistol would be a flavor swap more than a power upgrade
 
-### Adventure Hooks — GOLD MINE 🏆
-- **Dracónidos traidores** → Si hay un Dracónido en el grupo, TENSIÓN INSTANTÁNEA. Si no, puede encontrar uno en la aventura.
-- **Demonios como enemigos** → La Araña Negra no es un demonio, pero puedes seedear conexiones demoníacas en el futuro
-- **Noble caído buscando aliados** → Gundren es exactamente el tipo de persona que Lance necesita: alguien con recursos y un proyecto grande
-- **Castillo de Otoño Eterno** → Quest personal a largo plazo. Perfecto para después de LMoP.
-- **Desconfianza** → Lance no confiará fácil en el grupo. Los momentos donde alguien le demuestre lealtad serán ENORMES para su arco.
+### Adventure Hooks
+- **Dracónidos traidores** → Tension if he meets any Dragonborn
+- **Demonios** → 3/5 PCs have demon enemies = campaign theme
+- **Noble caído buscando aliados** → Gundren is exactly who Lance needs
+- **Castillo de Otoño Eterno** → Long-term personal quest after LMoP
+- **Desconfianza** → Moments where allies prove loyalty = huge for his arc
 
-### Roleplay Moments to Create
-- Un NPC Dracónido en algún momento — ver cómo reacciona Lance
-- Alguien menciona demonios en Phandalin → Lance se tensa, pregunta todo
-- Gundren (cuando lo rescaten) reconoce el apellido Andalond → "¿Eres hijo del Marqués? Creí que todos habían muerto..."
-- Un momento donde un aliado arriesga su vida por Lance → punto de quiebre en su arco de desconfianza
+### Party Dynamics
+- **Lance + Klador** — Both betrayed by their kingdoms. Potential brotherhood or suspicion (Chondathano vs Damarano).
+- **Lance + Eira** — Both exiles who did the right thing. Natural allies.
+- **Lance + Ricardo** — Both soldiers, different energy. Respect through combat.
+- **Lance + Tiapab** — Both exiled nobles. Lance accepted his new path, Tiapab wants to go back.

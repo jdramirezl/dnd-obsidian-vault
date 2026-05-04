@@ -11,7 +11,7 @@ tags:
 ---
 # Tiapab Hac
 
-> **Player:** Mono | **High Elf Cleric 1 (Life Domain)** | **No background selected** | **Neutral**
+> **Player:** Mono | **High Elf Cleric 1 (Life Domain)** | **Soldier** | **Neutral**
 
 ---
 
@@ -23,36 +23,44 @@ tags:
 
 | Stat | Value |
 |------|-------|
-| **AC** | 11 ⚠️⚠️ (shield only, no armor!) |
-| **HP** | 7/7 ⚠️ (Con -1, tied for lowest in party) |
-| **Speed** | 30 ft |
+| **AC** | 18 ✅ (Chain Mail 16 + Shield 2) |
+| **HP** | 7/7 ⚠️ (Con -1, lowest in party) |
+| **Speed** | 20 ft ⚠️ (Chain Mail reduces from 30 — STR 12 doesn't meet the 13 requirement) |
 | **Initiative** | +1 |
 | **Passive Perception** | 13 |
 | **Passive Investigation** | 13 |
 | **Darkvision** | 60 ft |
 | **Hit Dice** | 1d8 |
 | **Proficiency** | +2 |
-| **Cleric Spell Save DC** | 11 (8 + WIS 1 + Prof 2) |
+| **Cleric Spell Save DC** | 11 |
 | **Cleric Spell Attack** | +3 |
-| **High Elf Cantrip DC** | 13 (INT-based) |
+| **High Elf Cantrip DC** | 13 (INT) |
+| **High Elf Cantrip Attack** | +5 (INT) |
 
 ### Saving Throws
 - ⭐ **WIS** +3, ⭐ **CHA** +4
 - STR +1, DEX +1, CON -1, INT +3
 
-### Skills (proficient marked ⭐)
-- ⭐ Perception +3 (Keen Senses)
-- ⭐ Religion +3 (assumed from class? verify)
-- Other skills not clearly proficient — needs verification
+### Skills (proficient ⭐)
+- ⭐ Athletics +3 (Soldier)
+- ⭐ History +5 (Cleric)
+- ⭐ Intimidation +4 (Soldier)
+- ⭐ Perception +3 (High Elf — Keen Senses)
+- ⭐ Religion +5 (Cleric)
+
+> ⚠️ **Acrobatics shows +3 on Roll20 but shouldn't be proficient.** Verify — may be a Roll20 error. Should be +1 (just DEX mod).
 
 ### Racial Traits (High Elf)
-- **Darkvision** 60 ft
-- **Fey Ancestry** — Advantage vs charm, immune to magical sleep
-- **Keen Senses** — Perception proficiency
-- **Trance** — 4 hours of meditation = 8 hours of sleep
-- **Elf Weapon Training** — Proficiency with longsword, shortsword, shortbow, longbow
-- **High Elf Cantrip** — 1 wizard cantrip (INT-based) — ⚠️ not selected yet?
-- **Extra Language** — 1 additional language (not selected yet?)
+- Darkvision 60 ft
+- Fey Ancestry (advantage vs charm, immune to magical sleep)
+- Keen Senses (Perception proficiency)
+- Trance (4 hr rest = 8 hr sleep)
+- Elf Weapon Training (longsword, shortsword, shortbow, longbow)
+- High Elf Cantrip: **Fire Bolt** (INT-based)
+- Extra Language: **Goblin**
+
+### Tools
+- Dragonchess (INT +5)
 
 ---
 
@@ -61,135 +69,128 @@ tags:
 ### Attacks
 | Attack | Range | Hit | Damage | Notes |
 |--------|-------|-----|--------|-------|
-| Sacred Flame | 60 ft | DEX save DC 11 | 1d8 radiant | No attack roll — target saves. Ignores cover. |
-| Unarmed Strike | 5 ft | +3 | 2 | Last resort |
-| Longsword (if bought) | 5 ft | +3 | 1d8+1 (1d10+1 versatile) | Has proficiency from elf! |
-| Longbow (if bought) | 150/600 ft | +3 | 1d8+1 | Has proficiency from elf! |
+| Longsword (1H) | 5 ft | +3 | 1d8+1 | With shield |
+| Longsword (2H) | 5 ft | +3 | 1d10+1 | Drop shield first |
+| Mace | 5 ft | +3 | 1d6+1 | Backup |
+| Light Crossbow | 80/320 ft | +3 | 1d8+1 | Loading, two-handed |
+| Sacred Flame | 60 ft | DEX save DC 11 | 1d8 radiant | No attack roll, ignores cover |
+| Fire Bolt | 120 ft | +5 (INT) | 1d10 fire | Best ranged damage |
+| Guiding Bolt | 120 ft | +3 (WIS) | 4d6 radiant | Uses spell slot. Next attack on target has advantage. |
 
-### Spells (2 slots at level 1, WIS-based, DC 11)
+### Spells (2 slots at level 1, long rest recovery)
 
-**Prepared spells per day:** WIS mod (1) + Cleric level (1) = **2 spells** (plus domain spells always prepared)
+**Prepared per day:** WIS mod (1) + Cleric level (1) = **2** (plus domain spells free)
 
 **Cantrips (at will):**
 | Spell | Range | Effect |
 |-------|-------|--------|
-| **Sacred Flame** | 60 ft | DEX save or 1d8 radiant. Ignores cover. |
-| **Resistance** | Touch | Concentration. Target adds 1d4 to one saving throw. |
-| **Light** | Touch | Object glows bright 20 ft, dim 20 ft more. 1 hour. |
+| Sacred Flame | 60 ft | DEX save DC 11 or 1d8 radiant |
+| Resistance | Touch | Concentration. +1d4 to one saving throw |
+| Light | Touch | Object glows 20 ft bright, 20 ft dim, 1 hr |
+| Fire Bolt | 120 ft | +5 to hit, 1d10 fire (High Elf cantrip, INT) |
 
-**Domain Spells (always prepared, free):**
+**Domain Spells (always prepared, free, don't count against limit):**
 | Spell | Effect |
 |-------|--------|
-| **Bless** ⭐ | Concentration. Up to 3 creatures add 1d4 to attacks and saves. AMAZING. |
-| **Cure Wounds** ⭐ | Touch. Heal 1d8+1. |
+| **Bless** ⭐ | Concentration. Up to 3 creatures add 1d4 to attacks and saves |
+| **Cure Wounds** ⭐ | Touch. Heal 1d8+1+3 = **1d8+4** (Disciple of Life) |
 
-**Prepared 1st Level (choose 2):**
+**Prepared 1st Level (2 chosen):**
 | Spell | Effect |
 |-------|--------|
-| **Shield of Faith** | Bonus action. Concentration. +2 AC to one creature for 10 min. |
-| ⚠️ Only 1 more spell prepared — needs to choose | |
+| Shield of Faith | Bonus action. Concentration. +2 AC to one creature, 10 min |
+| Guiding Bolt | +3 to hit, 4d6 radiant, next attack on target has advantage |
 
-**Life Domain Bonus:**
-- **Disciple of Life** — Whenever you cast a healing spell of 1st level+, the target regains extra HP = 2 + spell level. So Cure Wounds heals 1d8+1+3 = **1d8+4**.
+### Key Features
+- **Disciple of Life** — Healing spells of 1st level+ heal extra 2 + spell level (Cure Wounds = 1d8+4)
+- **Savage Attacker** — Once per turn, roll weapon damage twice, use either
+- **Fey Ancestry** — Advantage vs charm, immune to magical sleep
+- **Trance** — 4 hr meditation = full long rest
+
+### Bonus Actions
+- **Shield of Faith** — +2 AC to a creature within 60 ft (concentration)
 
 ---
 
-## Equipment
+## Equipment ✅
 
-⚠️⚠️ **CRITICAL — almost nothing!**
-- **Gold:** 0 gp
-- **Shield** (+2 AC, currently his only defense)
-- That's it.
+### Weapons
+- Longsword, Mace, Light Crossbow + 20 bolts
 
-### URGENTLY needs:
-| Item | Cost | Why |
-|------|------|-----|
-| Chain Mail | 75 gp | AC 16 + shield = AC 18! Life Cleric gets heavy armor at some tables. Verify if using 2014 (yes heavy) or 2024 rules. |
-| Scale Mail | 50 gp | AC 14 + DEX(1) + shield = AC 17. If no heavy armor proficiency. |
-| Longsword | 15 gp | He WANTS to be a swordsman. Has elf proficiency. |
-| Holy Symbol | 5 gp | Spellcasting focus |
-| Explorer's Pack | 10 gp | Basics |
-| **Total** | ~80-105 gp | Needs gold from party or advance |
+### Armor
+- Chain Mail (AC 16, heavy), Shield (+2 AC)
+
+### Gear
+- Emblem (holy symbol on shield), Explorer's Pack, Backpack
+- Bedroll, Waterskin, Rope 50 ft, Tinderbox
+- 10 Torches, 10 Rations, 2 Oil flasks
+
+### Gold: 0 gp
 
 ---
 
 ## Personality
 
 ### Appearance
-- ⚠️ **Completely blank** — no height, weight, eyes, hair, skin, age filled in
-- High Elf, so: slender, likely 5-6 ft, could have copper/bronze/pale skin, gold/silver eyes
-- **Faith:** Bamir, goddess of war ⚠️ (not a standard Forgotten Realms deity — homebrew)
+- ⚠️ **ALL FIELDS EMPTY — Mono needs to fill these**
 
 ### Traits
-- ⚠️ **No bonds, flaws, ideals, or personality traits written**
-- From backstory: determined, defiant, proud, something to prove
+- ⚠️ **ALL EMPTY — Mono needs to fill these**
 
-### Background
-- ⚠️ **No official background selected** — needs one for skill proficiencies and feat
+### Faith
+- Bamir: goddess of war (homebrew — pending decision)
 
 ---
 
 ## Backstory
 
-Tiapab es uno de los herederos en la competencia por el trono del **Clan de la Alianza del Cielo Justo**, un clan élfico. Desde su infancia, el cabeza de familia lo despreció por tener un gusto **tabú** para las ideologías del clan: querer ser espadachín en vez de apoyo.
+Heredero en la competencia por el trono del **Clan de la Alianza del Cielo Justo**, un clan élfico. Desde su infancia, el cabeza de familia lo despreció por querer ser espadachín en vez de apoyo.
 
-**El evento que lo cambió todo:** El clan fue atacado por demonios, torturados, sus vidas a merced de una entidad demoníaca. Un **espadachín misterioso** los salvó — su manejo de la espada era un "control completo del espacio", una técnica jamás vista. Antes de irse montado en un dragón mascota, solo dijo: **"Soy un espadachín del Clan Ragnar."**
+**El evento:** El clan fue atacado por demonios. Un **espadachín misterioso del Clan Ragnar** los salvó con una técnica de espada jamás vista, y se fue montado en un dragón. Tiapab quiso ser como él.
 
-Desde ese momento, Tiapab le manifestó a su padre su deseo de volverse espadachín. Su padre lo **insultó, maltrató y desterró** del clan. Antes de irse, Tiapab le dejó clara su determinación.
+**El destierro:** Su padre lo insultó, maltrató y desterró. Le dio el título de **"Regresor"** — alguien que ha perdido toda historia y prestigio familiar. No puede mencionar su clan.
 
-**El desafío del padre:** "A partir de ahora no eres más un elfo. Te daré el título de **Regresor**: una persona que ha perdido toda su historia y prestigio familiar. Si hablas de determinación y honor, ten el honor de no mencionar nada de nosotros — porque si fallas o mueres, no mancharás el nombre de tu ex-familia."
-
-**Su meta:** Volver al clan siendo reconocido no por su capacidad de apoyo, sino por su **alta calidad en esgrima**. Es el primer elfo de su clan en no especializarse en apoyo.
+**Su meta:** Volver siendo reconocido por su esgrima, no por su capacidad de apoyo. El primer elfo de su clan en no especializarse en apoyo.
 
 ### Organization
-- **Clan de la Alianza del Cielo Justo** — Clan élfico del que fue desterrado
+- Clan de la Alianza del Cielo Justo (desterrado)
 
 ### Allies
-- Ninguno declarado
+- ⚠️ Ninguno listado
 
 ### Enemies
-- **Su padre / el clan** — lo desterró y le quitó su identidad
-- **Demonios** — atacaron su clan
-- **El espadachín del Clan Ragnar** — no es enemigo, es su ideal/obsesión. Quiere encontrarlo.
+- Su padre / el clan
+- Demonios que atacaron el clan
+- Busca al espadachín del Clan Ragnar (no enemigo — ideal/obsesión)
 
 ---
 
 ## DM Notes
 
-### ⚠️⚠️ Sheet Issues — MOST INCOMPLETE SHEET
-1. **AC 11 con 7 HP** — el personaje más vulnerable del grupo. Un goblin lo mata en 2 hits. NECESITA armadura antes de la sesión 2.
-2. **No tiene background oficial** — necesita elegir uno para obtener skill proficiencies y un Origin Feat. Soldier o Acolyte encajarían.
-3. **No tiene feat** — sin background no tiene feat. Esto es una desventaja significativa.
-4. **0 gold, casi 0 equipo** — solo tiene un shield. Ni armas, ni armadura, ni pack.
-5. **WIS 13 (+1) como Cleric** — su spell save DC es solo 11 y solo prepara 2 spells/día. Funcional pero limitado.
-6. **High Elf cantrip no seleccionado** — debería elegir un wizard cantrip (Booming Blade sería perfecto para su fantasía de espadachín).
-7. **Appearance completamente vacía** — necesita llenar antes de sesión 2.
-8. **No tiene Bless ni Cure Wounds listados** — son domain spells de Life, siempre preparados gratis. Asegurarse de que los tenga.
-9. **"Bamir: goddess of war"** — no existe en Forgotten Realms. Opciones: homebrew (está bien), o redirigir a **Tempus** (dios de la guerra) o **Corellon Larethian** (dios élfico de la espada y el arte).
-10. **Life Domain pero quiere ser espadachín** — hay tensión mecánica aquí. Life Domain es el mejor healer. War Domain encajaría mejor con su fantasía. Pero el conflicto interno (obligado a ser apoyo, quiere ser guerrero) ES su historia. Dejarlo así es narrativamente perfecto.
+### ⚠️ Sheet Issues Still Pending
+1. **Disciple of Life aparece 5 veces** en Features — borrar los duplicados, dejar solo 1
+2. **"Unnamed Decision"** aparece en Other Features bajo Soldier — borrar
+3. **Acrobatics +3** — parece marcado como proficient por error. Verificar y quitar si no debería estar.
+4. **Speed 20 ft** — Chain Mail reduce velocidad a 20 porque su STR (12) no cumple el requisito de 13. Esto es correcto por las reglas pero es lento. Opciones: vivir con ello, o eventualmente subir STR a 13.
+5. **Cure Wounds muestra 1d8+1** en ataques — debería recordar sumar +3 de Disciple of Life (total 1d8+4). Roll20 no lo calcula automáticamente.
 
-### 🗡️ El Conflicto Central — BRILLANTE
-Su clan lo entrenó como **apoyo/sanador** (Life Cleric). Él quiere ser **espadachín** (War Cleric/Fighter fantasy). Eligió Life Domain pero su corazón está en la espada. Esto es:
-- Mecánicamente: un healer que se lanza al frente a pelear (va a recibir golpes con AC 11)
-- Narrativamente: un rebelde que lucha contra su destino asignado
-- Dramáticamente: ¿aceptará su rol de apoyo cuando el grupo lo necesite, o insistirá en pelear?
+### 📝 Homework for Mono (lo único que queda)
+- [ ] Llenar apariencia (altura, peso, ojos, cabello, piel, edad)
+- [ ] Llenar bonds, flaws, ideals, personality traits
+- [ ] Llenar aliados y enemigos en los campos de la hoja
+- [ ] Decidir sobre "Bamir diosa de la guerra" — ¿homebrew o usar Tempus/Corellon?
+- [ ] Borrar los 4 Disciple of Life duplicados
+- [ ] Borrar "Unnamed Decision" de Other Features
 
 ### Adventure Hooks
-- **Desterrado por su clan** → Paralelo con Eira (también exiliada). Pueden conectar.
-- **Busca al espadachín del Clan Ragnar** → Quest personal a largo plazo. Puedes seedear rumores del Clan Ragnar.
-- **Demonios atacaron su clan** → Lance y Klador también tienen enemigos demoníacos. TRES personajes con conexión a demonios. Esto es un tema de campaña.
-- **"Regresor" — sin nombre ni familia** → En Phandalin nadie sabe quién es. Puede reinventarse.
-- **Quiere demostrar que es más que apoyo** → Cada vez que el grupo le pida curar en vez de pelear, hay drama interno.
-
-### Roleplay Moments to Create
-- Un combate donde Tiapab quiere atacar con espada pero alguien está muriendo y necesita Cure Wounds — ¿qué elige?
-- Un NPC espadachín impresionante que le recuerda al del Clan Ragnar
-- Alguien le pregunta de dónde viene y tiene que decidir si miente o dice la verdad (es un "Regresor" — no puede mencionar su clan)
-- Eira (la otra sanadora) le dice "tu trabajo es curar" — conflicto directo con su arco
-- Encuentra una espada mágica en la aventura — momento de validación
+- **Desterrado por su clan** → Paralelo con Eira (también exiliada)
+- **Busca al espadachín del Clan Ragnar** → Quest personal a largo plazo
+- **Demonios atacaron su clan** → Lance y Klador también tienen enemigos demoníacos. TRES PCs con conexión a demonios = tema de campaña.
+- **"Regresor" sin nombre ni familia** → Puede reinventarse en Phandalin
+- **Quiere pelear, no curar** → Drama cada vez que el grupo necesite sanación
 
 ### Party Dynamics
-- **Tiapab + Eira** — DOS healers. Eira es monk/healer, Tiapab es cleric/wannabe-swordsman. Ella abraza el rol de sanadora, él lo rechaza. Drama perfecto.
-- **Tiapab + Lance** — Lance es un noble exiliado que aceptó su nuevo camino. Tiapab es un noble exiliado que quiere volver. Contraste.
+- **Tiapab + Eira** — Dos healers con actitudes opuestas. Ella abraza curar, él lo rechaza. Drama perfecto.
+- **Tiapab + Lance** — Ambos nobles exiliados. Lance aceptó su nuevo camino, Tiapab quiere volver. Contraste.
 - **Tiapab + Klador** — Klador es medio elfo. Tiapab fue desterrado por elfos. ¿Lo ve como "menos" elfo, o como alguien que entiende no encajar?
-- **Tiapab + Ricardo** — Ricardo es puro instinto y carisma. Tiapab es determinación y técnica. Odd couple de combate.
+- **Tiapab + Ricardo** — Instinto vs técnica. Odd couple de combate.
