@@ -1,151 +1,129 @@
 ---
-lastSync: Sun Apr 26 2026 22:51:34 GMT-0600 (Central Standard Time)
-type: template
+type: session-prep
 source: Original
+session: 1
 tags:
-  - template
-  - dm-tools
   - session-prep
   - lazy-dm
+  - lmop
 ---
-# Session Prep — 3/4/2026
+# Preparación de Sesión 1 — 3/5/2026
 
-> Based on the [[02-the-lazy-dungeon-masters-checklist|Lazy DM 8-Step Checklist]]. Prep time: 15–30 min.
-
----
-
-## 1. Review the Characters
-
-| Character      | Player | Class/Level        | Key Motivation                                     | Current Arc |
-| -------------- | ------ | ------------------ | -------------------------------------------------- | ----------- |
-| Eira           | Cami   | Dwarf/Monk/1       |                                                    |             |
-| Tlabap Hac     | Mono   | Cleric/1           |                                                    |             |
-| Klador         | Andrew | Half-Elf/Warlock/1 |                                                    |             |
-| Lance Khaligan | Juandi | Human/Ranger/1     | En algun momento darle pistola y maestria en ella. |             |
-| Ricardo Milos  | David  | Human/Fighter/1    |                                                    |             |
-
-- [ ] Can I remember all their names?
-- [ ] What do the players (not characters) enjoy most?
+> Basado en el [[02-the-lazy-dungeon-masters-checklist|Checklist del Lazy DM]]. Tiempo de prep: 15–30 min.
 
 ---
 
-## 2. Strong Start
+## 1. Revisar los Personajes
 
-> *How does this session begin? One evocative sentence. When in doubt, start with a fight.*
+| Personaje | Jugador | Clase/Nivel | Motivación Principal | Arco Actual |
+|-----------|---------|-------------|---------------------|-------------|
+| Eira | Cami | Enana/Monje/1 | Curar la Veta Gris, encontrar ingredientes raros | Sanadora exiliada, odia goblins y elfos |
+| Tiapab Hac | Mono | Alto Elfo/Clérigo/1 | Demostrar que es espadachín, encontrar Clan Ragnar | Clérigo rebelde entre curar y pelear |
+| Klador | Andrew | Semielfo/Warlock/1 | Romper su maldición, vengarse del rey Damarano | Espía maldito entre entidad divina y abisal |
+| Lance Khaligan | Juandi | Humano/Ranger/1 | Reclamar Andalond, formar facción contra demonios | Noble caído, no confía en nadie |
+| Ricardo Milos | David | Humano/Guerrero/1 | Sobrevivir en un mundo nuevo, encontrar propósito | Guerrero invocado, puro instinto y carisma |
 
-**What's happening?**
-- Vamos a comenzar creando los personajes
-	- Concentrarme en crear buenas historias
-	- Si son buenos o malos. Siguen dioses, sus deseos, venganzas.
-	- Por que, dado su pasado, estan todos juntos ya? Se caen bien? Amigos?
+- [x] ¿Me sé todos los nombres?
+- [x] ¿Los jugadores terminaron bonds/flaws/descripciones? (parcialmente)
+
+---
+
+## 2. Inicio Fuerte
+
+**¿Qué pasa?**
+- Creación de personajes
+  - Concentrarme en crear buenas historias
+  - Si son buenos o malos. Siguen dioses, sus deseos, venganzas.
+  - ¿Por qué, dado su pasado, están todos juntos? ¿Se caen bien? ¿Amigos?
 - Repasar las reglas
 - Primer encuentro goblin tal vez
 
-**What's the point?**
+**¿Cuál es el punto?**
 - Comenzar la historia
 - Nos van a pagar 10 oros a cada uno
 
-**Where's the action?**
+**¿Dónde está la acción?**
 - El primer encuentro
 
 ---
 
-## 3. Potential Scenes
+## 3. Escenas Potenciales
 
-> *A few words per scene. Expect 1–2 per hour. Be ready to throw these away.*
-
-1. Presentar la costa de la espada
-2. Presntar la escena introuctoria, el contractor, carruaje, premio, motivo, poner posiciones
-3. Presentar Misterio
-4. 
+1. Presentar la Costa de la Espada
+2. Presentar la escena introductoria — el contratista, carruaje, premio, motivo, posiciones
+3. Presentar el misterio
+4. Lectura del texto de apertura en español
 
 ---
 
-## 4. Secrets and Clues
-
-> *10 short sentences. Keep them abstract — don't tie them to a specific place or person. Drop them wherever it makes sense during play.*
+## 4. Secretos y Pistas
 
 1. Camino a guarida
 2. Mapa desaparecido
 3. Pasos de goblins y rastros de 2 cuerpos
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+4. Gundren fue capturado — llevado al Castillo Cragmaw
+5. Alguien llamado "la Araña Negra" quiere el mapa
 
 ---
 
-## 5. Fantastic Locations
+## 5. Ubicaciones
 
-> *Evocative name + 3 pointed aspects. One location per expected scene.*
-
-| Location            | Aspect 1                                           | Aspect 2                                                      | Aspect 3 |
-| ------------------- | -------------------------------------------------- | ------------------------------------------------------------- | -------- |
-| Phandalin           | Asentamiento en un pueblo destruido hace 500 anios | Recientemente colonizado por personas concentradas en mineria |          |
-| Provisiones Barthen | Tienda de la familia Rockseeker                    | donde se quieren llevar las provisiones                       |          |
-| Sendero de Triboar  | Camino donde empezamos la historia                 |                                                               |          |
+| Ubicación | Aspecto 1 | Aspecto 2 | Aspecto 3 |
+|-----------|-----------|-----------|-----------|
+| Phandalin | Asentamiento en un pueblo destruido hace 500 años | Recientemente colonizado, enfocado en minería | Los Redbrands intimidan al pueblo |
+| Provisiones Barthen | Tienda donde entregar las provisiones | Familia Rockseeker | Pago de 10 gp por persona |
+| Sendero de Triboar | Camino donde empieza la historia | Bosque denso a ambos lados | Territorio peligroso |
 
 ---
 
-## 6. Important NPCs
+## 6. NPCs Importantes
 
-> *Name + connection to the adventure + archetype from fiction.*
-
-| NPC                 | Connection                                              | Archetype | Voice/Quirk |
-| ------------------- | ------------------------------------------------------- | --------- | ----------- |
-| Gunndren Rockseeker | Enano, nos contrata para llevar provisiones a Phandalin |           |             |
-| Sildar Hallwinter   | Human, escolta de Gunndren                              |           |             |
-|                     |                                                         |           |             |
+| NPC | Conexión | Arquetipo | Voz/Manía |
+|-----|----------|-----------|-----------|
+| Gundren Rockseeker | Enano, nos contrata para llevar provisiones | El mentor entusiasta | Habla rápido, se emociona, guarda secretos |
+| Sildar Hallwinter | Humano, escolta de Gundren | El caballero honorable | Formal, agradecido |
 
 ---
 
-## 7. Monsters
+## 7. Monstruos
 
-> *What makes sense for the story and location? CR is a loose gauge, not a rule.*
-
-| Monster | CR  | Qty | Tactics/Notes            |
-| ------- | --- | --- | ------------------------ |
-| Goblins |     | 4   | 2 attack, 2 30 ft arrows |
-|         |     |     |                          |
-|         |     |     |                          |
+| Monstruo | CR | Cant. | Tácticas |
+|----------|----|-------|----------|
+| Goblins | 1/4 | 4 | 2 atacan melee, 2 a 30 pies con arcos |
 
 ---
 
-## 8. Magic Item Rewards
+## 8. Recompensas
 
-> *Tie items to characters and story. Use the [[10-select-magic-item-rewards|loose wish list]] method.*
-
-- N/A
-- 
+- N/A para esta sesión
 
 ---
 
-## Session Notes
+## Notas de Sesión
 
-> *Fill during or after play.*
+### Lo Que Pasó
 
-### What Actually Happened
+- ✅ Creación de personajes completada para los 5 jugadores
+- ✅ Se leyó el gancho de apertura en español (el trabajo de Gundren)
+- ✅ Se leyó la escena de la mañana en Neverwinter — jugadores describieron sus personajes
+- ⏸️ Se detuvo después de la escena de la mañana — no se llegó a la emboscada
+- ⚠️ Falta: alianzas, enemigos, bonds, flaws, descripciones físicas para todos
 
-- ✅ Character creation completed for all 5 players
-- ✅ Read the opening hook in Spanish (Gundren's job offer)
-- ✅ Read the Neverwinter morning scene — players described their characters
-- ⏸️ Stopped after the morning scene — didn't reach the ambush
-- ⚠️ Still missing: alliances, enemies, bonds, flaws, physical descriptions for all characters
+### Lo Que Salió Bien
+- Crearon los personajes y lo disfrutaron
+- Eligieron razas diversas
+- Eligieron pasados creativos
+- Logramos concertar todo en una sesion
 
-### What Went Well
+### Lo Que Mejorar
+- Mas rapidez, no quedarnos en personajes
+- Avanzar rapido con las reglas, herramientas
 
 
-### What to Improve
+### Para la Próxima Sesión
 
-
-### For Next Session
-
-- [ ] Players need to finish: bonds, flaws, allies, enemies, physical descriptions
-- [ ] Start with the road travel scenes (Day 1 road → camp → Day 2 Triboar Trail)
-- [ ] Run the Goblin Ambush
-- [ ] If time: Goblin Trail + start of Cragmaw Hideout
-- [ ] Ask players to send character backstories before next session
-
+- [ ] Jugadores necesitan terminar: bonds, flaws, aliados, enemigos, descripciones físicas
+- [ ] Empezar con las escenas del camino (Día 1 → campamento → Día 2 Sendero de Triboar)
+- [ ] Correr la Emboscada Goblin
+- [ ] Si hay tiempo: Sendero Goblin + inicio de Guarida Cragmaw
+- [ ] Pedir a los jugadores que envíen backstories antes de la próxima sesión

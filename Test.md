@@ -1,5 +1,3 @@
-Here’s a cleaner formatted version:
-
 # The Road to the Ambush — Scene by Scene
 
 ## Beat 1: Leaving Neverwinter
