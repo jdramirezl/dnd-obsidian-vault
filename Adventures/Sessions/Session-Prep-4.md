@@ -24,8 +24,9 @@ tags:
 | Klador    | Boca de Sala 7 (solo, oculto) | 7             | Nadie lo ha visto. Está en peligro si lo descubren. |
 | Lance     | Pasaje Sala 4-5 (mojado)      | 8             | Sin lobos. Thanos está en Sala 1.                   |
 | Tiapab    | Pasaje Sala 4-5 (mojado)      | 7             | AC 18 = tanque del grupo.                           |
-| Ricardo   | Pasaje Sala 4-5 (mojado)      | ~6-8?         | El damage dealer.                                   |
+| Ricardo   | Pasaje Sala 4-5 (mojado)      | 9             | El damage dealer.                                   |
 | Eira      | ¿?                            | 10            | Cami no estuvo sesión 3. ¿Vuelve hoy?               |
+|           |                               |               |                                                     |
 
 > ⚠️ **Preguntar HP exactos al inicio de la sesión.** Si están muy bajos, sugerir descanso corto (recuperan Hit Dice).
 
@@ -49,14 +50,14 @@ El goblin que escapó en Sesión 2 llegó a la cueva y avisó. Klarg sabe:
 
 ## Goblins Restantes en la Cueva
 
-| Sala | Goblins | Estado |
-|------|---------|--------|
-| Sala 2 | 0 | Muertos (Sesión 3) |
-| Sala 5 (puente) | 1 | Soltó la inundación. ¿Sigue ahí o fue a Sala 7? Yo diría que fue a Sala 7 a reportar. |
-| Sala 6 | 5 + Yeemik (12 HP) | Vivos, no alertados todavía |
-| Sala 7 | 3 (+1 del puente = 4) | Alertas — acaban de soltar la inundación, saben que hay intrusos |
-| Sala 8 | 2 + Klarg + Ripper (lobo) | Klarg alerta pero no en emboscada activa |
-| **Total** | ~12 goblins + Klarg + Ripper + Yeemik | |
+| Sala            | Goblins                               | Estado                                                                                |
+| --------------- | ------------------------------------- | ------------------------------------------------------------------------------------- |
+| Sala 2          | 0                                     | Muertos (Sesión 3)                                                                    |
+| Sala 5 (puente) | 1 -> 0                                | Soltó la inundación. ¿Sigue ahí o fue a Sala 7? Yo diría que fue a Sala 7 a reportar. |
+| Sala 6          | 5 + Yeemik (12 HP)                    | Vivos, no alertados todavía                                                           |
+| Sala 7          | 3 (+1 del puente = 4)                 | Alertas — acaban de soltar la inundación, saben que hay intrusos                      |
+| Sala 8          | 2 + Klarg + Ripper (lobo)             | Klarg alerta pero no en emboscada activa                                              |
+| **Total**       | ~12 goblins + Klarg + Ripper + Yeemik |                                                                                       |
 
 ---
 
