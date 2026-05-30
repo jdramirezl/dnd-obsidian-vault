@@ -195,18 +195,52 @@ tags:
 
 ## Notas de Sesión
 
-> *Llenar durante o después de jugar.*
+> *Sesión 2 — jugada ~mediados de mayo 2025*
 
 ### Lo Que Pasó
 
+**Ausente:** Mono (Tiapab Hac) — no jugó esta sesión.
+
+**El Camino:**
+- Les di las descripciones del camino y pregunté por qué tomaron el trabajo
+- Todos coincidieron: **dinero**. Nadie conocía a Gundren de antes.
+  - Ricardo: es uno de muchos trabajos que ha tomado desde que llegó al mundo
+  - Lance, Klador, Eira: vieron el anuncio y lo tomaron
+- No se establecieron conexiones previas entre personajes
+
+**La Emboscada Goblin:**
+- Ricardo y Lance se adelantaron → los goblins los sorprendieron
+- Batalla MUY dura — todos quedaron a menos de la mitad de HP
+- Eira quedó a ~1 HP
+- Eira logró curar a personas (Healing Word)
+- Alguien más también curó (¿Klador? verificar)
+- **Ricardo tuvo dados increíbles** — mató 2 de los 4 goblins básicamente de un golpe
+- Eira remató otro goblin que estaba lejos
+- **Klador tenía un goblin cerca con poca vida pero decidió NO matarlo** (decisión de roleplay — el goblin escapó corriendo hacia la cueva)
+- Le di **Inspiración** a Klador por buena decisión de roleplay (mecánicamente mala, narrativamente buena)
+
+**El Sendero Goblin:**
+- Ricardo y Klador persiguieron al goblin por el bosque (no fueron a Phandalin)
+- Lance y Eira los siguieron
+- **Trampa 1 (Lazo):** Klador quedó colgado en el aire. Ricardo fue por Lance y Eira. Lance disparó a la cuerda (no consideró la altura). Ricardo hizo Acrobatics check para atraparlo → éxito, lo atrapó sin daño.
+- **Trampa 2 (Foso):** Klador cayó de nuevo (percepción pasiva insuficiente). Hizo DEX save → éxito, se agarró del borde. Sin daño.
+- Ninguna trampa causó daño real al grupo.
+
+**Fin de sesión:** Llegaron a la entrada de la Guarida Cragmaw.
 
 ### Lo Que Salió Bien
-
+- La emboscada fue tensa y peligrosa — los jugadores sintieron el peligro real
+- Ricardo brilló como el damage dealer del grupo
+- La decisión de Klador de dejar ir al goblin fue un gran momento de roleplay
+- Las trampas fueron divertidas (Klador como el "imán de trampas")
+- El grupo se movió junto sin separarse demasiado
 
 ### Lo Que Mejorar
-
+- La batalla fue casi letal para nivel 1 — considerar si el grupo necesita descanso corto antes de la cueva
+- Verificar quién más puede curar además de Eira
+- Mono no estuvo — integrar a Tiapab en la siguiente sesión
 
 ### Para la Próxima Sesión
-
-- 
-- 
+- [x] Correr la Guarida Cragmaw (Sesión 3)
+- [ ] Integrar a Tiapab (¿estaba con el carromato? ¿los alcanza después?)
+- [ ] El goblin que escapó → ¿avisó a la cueva? (Sí — Klarg puede estar preparado)
